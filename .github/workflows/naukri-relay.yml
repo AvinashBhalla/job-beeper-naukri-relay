@@ -44,52 +44,87 @@ jobs:
       - name: Collect Naukri jobs
         run: |
           python - <<'PY'
+          import concurrent.futures
           import datetime as dt
           import json
+          import time
           from pathlib import Path
           from jobspy import scrape_jobs
 
+          scan_started = time.monotonic()
           config = json.loads(Path("private-app/v2/config.json").read_text(encoding="utf-8"))
           queries = config.get("naukri_queries", [])
           locations = config.get("naukri_locations", ["India"])
           if not queries:
               raise SystemExit("No naukri_queries configured")
+
+          # Run a small, bounded number of independent searches concurrently.
+          # This shortens the relay's serial query bottleneck without flooding Naukri.
+          targets = [(query, location) for location in locations for query in queries]
+          def collect_target(target):
+              query, location = target
+              started = time.monotonic()
+              print(f"Collecting query={query!r}, location={location!r}", flush=True)
+              frame = scrape_jobs(
+                  site_name=["naukri"], search_term=query, location=location,
+                  results_wanted=25, hours_old=72, fetch_description=True,
+                  description_format="plain", verbose=0,
+              )
+              rows = [] if frame is None or frame.empty else frame.to_dict("records")
+              print(
+                  f"Finished query={query!r}, location={location!r}, "
+                  f"rows={len(rows)}, elapsed={time.monotonic()-started:.1f}s",
+                  flush=True,
+              )
+              return location, rows
+
+          collected, failed_targets = [], []
+          with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
+              futures = {pool.submit(collect_target, target): target for target in targets}
+              for future in concurrent.futures.as_completed(futures):
+                  target = futures[future]
+                  try:
+                      collected.append(future.result())
+                  except Exception as exc:
+                      failed_targets.append((target, repr(exc)))
+                      print(f"Search failed target={target!r}: {exc!r}", flush=True)
+
           jobs, seen = [], set()
-          for location in locations:
-              for query in queries:
-                  print(f"Collecting query={query!r}, location={location!r}", flush=True)
-                  frame = scrape_jobs(
-                      site_name=["naukri"], search_term=query, location=location,
-                      results_wanted=15, hours_old=72, fetch_description=True,
-                      description_format="plain", verbose=0,
-                  )
-                  if frame is None or frame.empty:
+          for location, rows in collected:
+              for row in rows:
+                  url = str(row.get("job_url") or row.get("job_url_direct") or "").strip()
+                  if not url or url in seen:
                       continue
-                  for row in frame.to_dict("records"):
-                      url = str(row.get("job_url") or row.get("job_url_direct") or "").strip()
-                      if not url or url in seen:
-                          continue
-                      seen.add(url)
-                      posted = row.get("date_posted")
-                      if hasattr(posted, "isoformat"):
-                          posted = posted.isoformat()
-                      description = str(row.get("description") or "")
-                      exp = row.get("experience_range")
-                      skills = row.get("skills")
-                      if exp:
-                          description += " " + str(exp)
-                      if skills:
-                          description += " " + str(skills)
-                      jobs.append({
-                          "id": "nk-" + str(row.get("id") or url),
-                          "source": "naukri",
-                          "company": str(row.get("company") or row.get("company_name") or ""),
-                          "title": str(row.get("title") or ""),
-                          "location": str(row.get("location") or location),
-                          "url": url,
-                          "posted": posted,
-                          "description": description.strip(),
-                      })
+                  seen.add(url)
+                  posted = row.get("date_posted")
+                  if hasattr(posted, "isoformat"):
+                      posted = posted.isoformat()
+                  description = str(row.get("description") or "")
+                  exp = row.get("experience_range")
+                  skills = row.get("skills")
+                  if exp:
+                      description += " " + str(exp)
+                  if skills:
+                      description += " " + str(skills)
+                  jobs.append({
+                      "id": "nk-" + str(row.get("id") or url),
+                      "source": "naukri",
+                      "company": str(row.get("company") or row.get("company_name") or ""),
+                      "title": str(row.get("title") or ""),
+                      "location": str(row.get("location") or location),
+                      "url": url,
+                      "posted": posted,
+                      "description": description.strip(),
+                  })
+
+          print(
+              f"Naukri scan summary: targets={len(targets)} completed={len(collected)} "
+              f"failed={len(failed_targets)} unique_jobs={len(jobs)} "
+              f"elapsed={time.monotonic()-scan_started:.1f}s",
+              flush=True,
+          )
+          if failed_targets and not collected:
+              raise SystemExit("All Naukri searches failed; preserving the last-good feed")
 
           def sort_key(job):
               value = job.get("posted")
