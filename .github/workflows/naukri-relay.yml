@@ -151,10 +151,10 @@ jobs:
                   exp = row.get("experience_range")
                   search_skills = row.get("skills")
                   if exp:
-                      description += "\\n\\n" + str(exp)
+                      description += "\n\n" + str(exp)
                   if search_skills:
                       # Keep the search API's skills in searchable text as before.
-                      description += "\\n\\n" + str(search_skills)
+                      description += "\n\n" + str(search_skills)
 
                   raw_id = str(row.get("id") or "")
                   detail_id = raw_id.removeprefix("nk-")
