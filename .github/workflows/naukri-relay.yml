@@ -46,8 +46,58 @@ jobs:
           import datetime as dt
           import json
           import time
+          import threading
           from pathlib import Path
           from jobspy import scrape_jobs
+          from jobspy.naukri import Naukri
+          from jobspy.naukri.constant import job_page_headers
+          from jobspy.naukri.util import generate_nkparam
+          from jobspy.model import DescriptionFormat
+          from jobspy.util import markdown_converter, plain_converter
+
+          # JobSpy 1.2.0 already fetches /jobapi/v4/job/{id} for the description.
+          # Capture that same response once so the relay can preserve Naukri's
+          # structured role, education and key-skills fields without a second request.
+          captured_details = {}
+          captured_details_lock = threading.Lock()
+
+          def fetch_details_with_capture(self, job_id):
+              try:
+                  response = self.session.get(
+                      f"{self.job_page_url}/{job_id}",
+                      headers=job_page_headers | {"nkparam": generate_nkparam(job_id)},
+                  )
+                  response.raise_for_status()
+                  detail = response.json()["jobDetails"]
+              except Exception as exc:
+                  print(
+                      f"Structured Naukri details unavailable for {job_id}: {type(exc).__name__}",
+                      flush=True,
+                  )
+                  return {}
+
+              with captured_details_lock:
+                  captured_details[str(job_id)] = detail
+
+              description = detail.get("description")
+              if self.scraper_input.description_format == DescriptionFormat.MARKDOWN:
+                  description = markdown_converter(description)
+              elif self.scraper_input.description_format == DescriptionFormat.PLAIN:
+                  description = plain_converter(description)
+
+              company = detail.get("companyDetail") or {}
+              return {
+                  "description": description or None,
+                  "job_type": self._parse_job_type(detail.get("jobType")),
+                  "vacancy_count": detail.get("vacancy"),
+                  "job_url_direct": detail.get("applyRedirectUrl") or None,
+                  "company_industry": detail.get("industry") or None,
+                  "job_function": detail.get("functionalArea") or None,
+                  "company_description": plain_converter(company.get("details")) or None,
+                  "company_addresses": company.get("address") or None,
+              }
+
+          Naukri._fetch_details = fetch_details_with_capture
 
           scan_started = time.monotonic()
           config = json.loads(Path("private-app/v2/config.json").read_text(encoding="utf-8"))
@@ -66,7 +116,7 @@ jobs:
               frame = scrape_jobs(
                   site_name=["naukri"], search_term=query, location=location,
                   results_wanted=25, hours_old=72, fetch_description=True,
-                  description_format="plain", verbose=0,
+                  description_format="markdown", verbose=0,
               )
               rows = [] if frame is None or frame.empty else frame.to_dict("records")
               print(
@@ -99,11 +149,48 @@ jobs:
                       posted = posted.isoformat()
                   description = str(row.get("description") or "")
                   exp = row.get("experience_range")
-                  skills = row.get("skills")
+                  search_skills = row.get("skills")
                   if exp:
-                      description += " " + str(exp)
-                  if skills:
-                      description += " " + str(skills)
+                      description += "\n\n" + str(exp)
+                  if search_skills:
+                      # Keep the search API's skills in searchable text as before.
+                      description += "\n\n" + str(search_skills)
+
+                  raw_id = str(row.get("id") or "")
+                  detail_id = raw_id.removeprefix("nk-")
+                  detail = captured_details.get(detail_id, {})
+                  raw_skills = (detail.get("keySkills") or {}) if isinstance(detail, dict) else {}
+                  all_skills = []
+                  if isinstance(raw_skills, dict):
+                      seen_skill_labels = set()
+                      for group_values in raw_skills.values():
+                          if not isinstance(group_values, list):
+                              continue
+                          for skill in group_values:
+                              label = skill.get("label") if isinstance(skill, dict) else skill
+                              label = str(label or "").strip()
+                              if label and label.casefold() not in seen_skill_labels:
+                                  all_skills.append(label)
+                                  seen_skill_labels.add(label.casefold())
+                  if not all_skills and search_skills:
+                      all_skills = [part.strip() for part in str(search_skills).split(",") if part.strip()]
+
+                  education = detail.get("education") or {}
+                  if not isinstance(education, dict):
+                      education = {}
+                  source_details = {
+                      "role": detail.get("jobRole"),
+                      "role_category": detail.get("roleCategory"),
+                      "industry_type": detail.get("industry") or row.get("company_industry"),
+                      "department": detail.get("functionalArea") or row.get("job_function"),
+                      "employment_type": detail.get("employmentType"),
+                      "education": {
+                          "ug": education.get("ug") or [],
+                          "pg": education.get("pg") or [],
+                          "ppg": education.get("ppg") or [],
+                      },
+                      "key_skills": all_skills,
+                  }
                   jobs.append({
                       "id": "nk-" + str(row.get("id") or url),
                       "source": "naukri",
@@ -113,6 +200,8 @@ jobs:
                       "url": url,
                       "posted": posted,
                       "description": description.strip(),
+                      "description_format": "markdown",
+                      "source_details": source_details,
                   })
 
           print(
