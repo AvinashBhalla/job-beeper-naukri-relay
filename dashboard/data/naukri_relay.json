@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T09:52:09.245336+00:00",
-  "count": 258,
+  "updated_at": "2026-11-06T09:56:41.779742+00:00",
+  "count": 127,
   "jobs": [
     {
       "id": "nk-nk-061126008482",
@@ -113,44 +113,24 @@
       "description": "5-10 Yrs Requirements, Program, Integration, Cloud, Agile methodology, Development, Continuous Integration, Languages"
     },
     {
-      "id": "nk-nk-061126019061",
+      "id": "nk-nk-061126501438",
       "source": "naukri",
-      "company": "Hiring Squad",
-      "title": "Artificial Intelligence Engineer/ AI Engineer",
-      "location": "Hyderabad, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-artificial-intelligence-engineer-ai-engineer-hiring-squad-hyderabad-bengaluru-8-to-12-years-061126019061",
+      "company": "Thales",
+      "title": "Software engineer",
+      "location": "Noida, India",
+      "url": "https://www.naukri.com/job-listings-software-engineer-thales-india-pvt-ltd-noida-3-to-6-years-061126501438",
       "posted": "2026-11-06",
-      "description": "8-12 Yrs SQL, Bigquery, Intelligence, Query, Python, GCP, Artificial Intelligence"
+      "description": "3-6 Yrs nan"
     },
     {
-      "id": "nk-nk-061126012518",
+      "id": "nk-nk-061126501878",
       "source": "naukri",
-      "company": "Tredence",
-      "title": "Lead Generative AI engineer",
-      "location": "Hyderabad, Pune, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-lead-generative-ai-engineer-tredence-hyderabad-pune-bengaluru-7-to-13-years-061126012518",
+      "company": "Trigyn Technologies",
+      "title": "Full Stack Developer",
+      "location": "New Delhi, India",
+      "url": "https://www.naukri.com/job-listings-full-stack-developer-trigyn-technologies-new-delhi-2-to-3-years-061126501878",
       "posted": "2026-11-06",
-      "description": "7-13 Yrs Python, Science, Db, Artificial Intelligence, Catalog, Orchestration, SQL, Data Science"
-    },
-    {
-      "id": "nk-nk-061126012367",
-      "source": "naukri",
-      "company": "Net Connect",
-      "title": "Lead AI Engineer",
-      "location": "Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-lead-ai-engineer-net-connect-gurugram-bengaluru-5-to-9-years-061126012367",
-      "posted": "2026-11-06",
-      "description": "5-9 Yrs Languages, MCP, Large, Artificial Intelligence"
-    },
-    {
-      "id": "nk-nk-061126010628",
-      "source": "naukri",
-      "company": "Varite",
-      "title": "Agentic AI Engineer",
-      "location": "Hyderabad, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-agentic-ai-engineer-varite-hyderabad-bengaluru-6-to-11-years-061126010628",
-      "posted": "2026-11-06",
-      "description": "6-11 Yrs Sre, Artificial Intelligence, Workflow, Google, Protocols, Orchestration, Python, AWS"
+      "description": "2-3 Yrs HTML, Postgresql, Integration, Management, Rest, Backend, CSS, Agile"
     },
     {
       "id": "nk-nk-061126016623",
@@ -160,47 +140,37 @@
       "location": "Gurugram, Chennai, India",
       "url": "https://www.naukri.com/job-listings-immediate-hiring-java-full-stack-developer-with-aws-chennai-gurgaon-incedo-gurugram-chennai-7-to-12-years-061126016623",
       "posted": "2026-11-06",
-      "description": "7-12 Yrs nan"
+      "description": "7-12 Yrs Hiring, Gateways, Lambda Expressions, Full Stack, Spring Boot, Java, Artificial Intelligence, Native"
     },
     {
-      "id": "nk-nk-061126012044",
+      "id": "nk-nk-270426034373",
       "source": "naukri",
-      "company": "Fractal Analytics",
-      "title": "Fullstack Developer",
-      "location": "Pune, Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-fullstack-developer-fractal-analytics-pune-gurugram-bengaluru-6-to-9-years-061126012044",
+      "company": "Infosys",
+      "title": "Dot Net Full stack Developer - Diversity Hiring",
+      "location": "Delhi / NCR, Hyderabad, Pune, India",
+      "url": "https://www.naukri.com/job-listings-dot-net-full-stack-developer-diversity-hiring-infosys-hyderabad-pune-delhi-ncr-4-to-9-years-270426034373",
       "posted": "2026-11-06",
-      "description": "6-9 Yrs nan"
+      "description": "4-9 Yrs C#, .Net, .NET Core, ASP.NET, ado.net, Hiring, Full Stack, Core"
     },
     {
-      "id": "nk-nk-061126500876",
+      "id": "nk-nk-061126010032",
       "source": "naukri",
-      "company": "Qloron Technology",
-      "title": "DOT NET FULL STACK Professional",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-dot-net-full-stack-professional-qloron-pvt-ltd-gurugram-4-to-9-years-061126500876",
+      "company": "Vbeyond Corporation",
+      "title": "Java CTI Full Stack Developer",
+      "location": "Delhi / NCR, Hyderabad, Pune, India",
+      "url": "https://www.naukri.com/job-listings-java-cti-full-stack-developer-vbeyond-corporation-hyderabad-pune-delhi-ncr-4-to-9-years-061126010032",
       "posted": "2026-11-06",
-      "description": "4-9 Yrs Coding, Full Stack, Entity framework, ASP.Net, Javascript, CI Cd Pipeline, CSS, .Net"
+      "description": "4-9 Yrs Full Stack, Spring Boot, Java, Bootstrap, Microservices, Splunk, Development, React.js"
     },
     {
-      "id": "nk-nk-061126916659",
+      "id": "nk-nk-061126916564",
       "source": "naukri",
       "company": "Soul Ai",
-      "title": "C# Developer (Freelance)",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-c-developer-freelance-soul-ai-gurugram-4-to-8-years-061126916659",
+      "title": "Full Stack Developer (React + Node.js)",
+      "location": "India",
+      "url": "https://www.naukri.com/job-listings-full-stack-developer-react-node-js-soul-ai-delhi-2-to-4-years-061126916564",
       "posted": "2026-11-06",
-      "description": "4-8 Yrs SQL, Freelancing, Entity framework, C#, ASP.Net, Cs, Javascript, CSS"
-    },
-    {
-      "id": "nk-nk-061126020424",
-      "source": "naukri",
-      "company": "Net Connect",
-      "title": "Quality   Engineer-Automation",
-      "location": "Pune, Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-quality-engineer-automation-net-connect-pune-gurugram-bengaluru-8-to-13-years-061126020424",
-      "posted": "2026-11-06",
-      "description": "8-13 Yrs Typescript, Quality, Selenium, API"
+      "description": "2-4 Yrs Full Stack, Fullstack Development, UI development, Elastic Search, Cs, Javascript, CSS, Web development"
     },
     {
       "id": "nk-nk-061126916559",
@@ -213,106 +183,6 @@
       "description": "2-4 Yrs SAS, UI development, Elastic Search, Cs, CSS, Web development, jQuery, Searching"
     },
     {
-      "id": "nk-nk-061126500552",
-      "source": "naukri",
-      "company": "Aptivix Technologies",
-      "title": "React / Next . js Frontend Developer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-react-next-js-frontend-developer-aptivix-technologies-gurugram-3-to-8-years-061126500552",
-      "posted": "2026-11-06",
-      "description": "3-8 Yrs Typescript, Web Performance, Rendering, Frontend Development, Javascript, Web technologies, Router, React.js"
-    },
-    {
-      "id": "nk-nk-061126012676",
-      "source": "naukri",
-      "company": "PwC",
-      "title": "Fullstack Developer AI Engineer-Manager",
-      "location": "Hyderabad, Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-fullstack-developer-ai-engineer-manager-pwc-hyderabad-gurugram-bengaluru-8-to-12-years-061126012676",
-      "posted": "2026-11-06",
-      "description": "8-12 Yrs Continuous Integration, Artificial Intelligence, Fullstack Development, Cd, Ai Platform, Python, AWS, React.js"
-    },
-    {
-      "id": "nk-nk-061126501149",
-      "source": "naukri",
-      "company": "Syfe",
-      "title": "React Native / Mobile Engineer - Engineer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-react-native-mobile-engineer-engineer-syfe-gurugram-4-to-9-years-061126501149",
-      "posted": "2026-11-06",
-      "description": "4-9 Yrs Cash, Digital, Investment, React Native, React.js, Cash management, Usage, Typescript"
-    },
-    {
-      "id": "nk-nk-061126916748",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Go Developer (Freelance)",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-go-developer-freelance-soul-ai-gurugram-4-to-8-years-061126916748",
-      "posted": "2026-11-06",
-      "description": "4-8 Yrs Node.js, Bootstrap, Freelancing, CSS, Architecture, Microservices, Cs, jQuery"
-    },
-    {
-      "id": "nk-nk-061126916372",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "C++ Application Developer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-c-application-developer-soul-ai-gurugram-2-to-4-years-061126916372",
-      "posted": "2026-11-06",
-      "description": "2-4 Yrs C++, Microsoft Windows, STL, iPhone, Rest, Development, SQL Server, GUI"
-    },
-    {
-      "id": "nk-nk-061126916612",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Next.js Expert",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-next-js-expert-soul-ai-gurugram-2-to-4-years-061126916612",
-      "posted": "2026-11-06",
-      "description": "2-4 Yrs SQL, Webdriver, Graphql, C#, Boot, SEO, Selenium Webdriver, Spring Boot"
-    },
-    {
-      "id": "nk-nk-061126017866",
-      "source": "naukri",
-      "company": "Dev Solutions",
-      "title": "Front End Developer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-front-end-developer-dev-solutions-gurugram-3-to-6-years-061126017866",
-      "posted": "2026-11-06",
-      "description": "3-6 Yrs Frontend Development, Javascript, React.js, Front, Front end, Development, End, IOT"
-    },
-    {
-      "id": "nk-nk-061126916955",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Backend Developer (freelancer)",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-backend-developer-freelancer-soul-ai-gurugram-1-to-4-years-061126916955",
-      "posted": "2026-11-06",
-      "description": "1-4 Yrs SQL, Freelancing, Boot, Cs, Javascript, Spring Boot, CSS, Web development"
-    },
-    {
-      "id": "nk-nk-061126916634",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Web Developer (AI Trainer)",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-web-developer-ai-trainer-soul-ai-gurugram-4-to-8-years-061126916634",
-      "posted": "2026-11-06",
-      "description": "4-8 Yrs Dreamweaver, Angular, UI, Sass, Responsive Design, Development, User interface designing, Web designing"
-    },
-    {
-      "id": "nk-nk-061126008026",
-      "source": "naukri",
-      "company": "Tagbin Services",
-      "title": "Generative AI Engineer",
-      "location": "Gurugram, India, Haryana, India",
-      "url": "https://www.naukri.com/job-listings-generative-ai-engineer-tagbin-services-private-limited-gurugram-india-haryana-2-to-5-years-061126008026",
-      "posted": "2026-11-06",
-      "description": "2-5 Yrs Natural language processing, Microsoft Azure, Anomaly Detection, Cloud, AWS, Analytics, Languages, Application"
-    },
-    {
       "id": "nk-nk-061126915907",
       "source": "naukri",
       "company": "Soul Ai",
@@ -323,14 +193,14 @@
       "description": "2-4 Yrs HTML, CMS Framework, UI development, Bootstrap, Typescript, Searching, Framework, Redux"
     },
     {
-      "id": "nk-nk-061126916564",
+      "id": "nk-nk-061126500552",
       "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Full Stack Developer (React + Node.js)",
-      "location": "India",
-      "url": "https://www.naukri.com/job-listings-full-stack-developer-react-node-js-soul-ai-delhi-2-to-4-years-061126916564",
+      "company": "Aptivix Technologies",
+      "title": "React / Next . js Frontend Developer",
+      "location": "Gurugram, India",
+      "url": "https://www.naukri.com/job-listings-react-next-js-frontend-developer-aptivix-technologies-gurugram-3-to-8-years-061126500552",
       "posted": "2026-11-06",
-      "description": "2-4 Yrs Full Stack, Fullstack Development, UI development, Elastic Search, Cs, Javascript, CSS, Web development"
+      "description": "3-8 Yrs Typescript, Web Performance, Rendering, Frontend Development, Javascript, Web technologies, Router, React.js"
     },
     {
       "id": "nk-nk-061126018335",
@@ -363,214 +233,24 @@
       "description": "2-4 Yrs SQL, Java Frameworks, ASP.Net, C#, Cs, Javascript, CSS, Web development"
     },
     {
-      "id": "nk-nk-061126501438",
+      "id": "nk-nk-061126012367",
       "source": "naukri",
-      "company": "Thales",
-      "title": "Software engineer",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-software-engineer-thales-india-pvt-ltd-noida-3-to-6-years-061126501438",
+      "company": "Net Connect",
+      "title": "Lead AI Engineer",
+      "location": "Gurugram, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-lead-ai-engineer-net-connect-gurugram-bengaluru-5-to-9-years-061126012367",
       "posted": "2026-11-06",
-      "description": "3-6 Yrs nan"
+      "description": "5-9 Yrs Languages, MCP, Large, Artificial Intelligence"
     },
     {
-      "id": "nk-nk-061126916762",
+      "id": "nk-nk-061126008026",
       "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Software Engineer MSc (Freelancer)",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-software-engineer-msc-freelancer-soul-ai-gurugram-1-to-3-years-061126916762",
+      "company": "Tagbin Services",
+      "title": "Generative AI Engineer",
+      "location": "Gurugram, India, Haryana, India",
+      "url": "https://www.naukri.com/job-listings-generative-ai-engineer-tagbin-services-private-limited-gurugram-india-haryana-2-to-5-years-061126008026",
       "posted": "2026-11-06",
-      "description": "1-3 Yrs C++, Content, Computer, Freelancing, Development, Content creation, Algorithms, Machine"
-    },
-    {
-      "id": "nk-nk-061126916110",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Software Engineer MSc (Freelancer)",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-software-engineer-msc-freelancer-soul-ai-noida-1-to-3-years-061126916110",
-      "posted": "2026-11-06",
-      "description": "1-3 Yrs Algorithms, Freelancing, Cs, Javascript, Intelligence, Computer vision, CSS, Processing"
-    },
-    {
-      "id": "nk-nk-061126916742",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Software Engineer BSc (Freelancer)",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-software-engineer-bsc-freelancer-soul-ai-gurugram-4-to-8-years-061126916742",
-      "posted": "2026-11-06",
-      "description": "4-8 Yrs Artificial Intelligence, Data, Software engineering, Content, Freelancing, Content creation, Teaching, Machine"
-    },
-    {
-      "id": "nk-nk-061126916099",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Software Engineer BSc (Freelancer)",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-software-engineer-bsc-freelancer-soul-ai-noida-4-to-8-years-061126916099",
-      "posted": "2026-11-06",
-      "description": "4-8 Yrs Artificial Intelligence, Data, Software engineering, Content, Freelancing, Content creation, Teaching, Machine"
-    },
-    {
-      "id": "nk-nk-061126916577",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Python Developer (Mid-Level)",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-mid-level-soul-ai-gurugram-2-to-4-years-061126916577",
-      "posted": "2026-11-06",
-      "description": "2-4 Yrs HTML, Postgresql, SQL, Linux, Numpy, Flask, Rest, Machine learning"
-    },
-    {
-      "id": "nk-nk-061126916508",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Python Developer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-gurugram-1-to-3-years-061126916508",
-      "posted": "2026-11-06",
-      "description": "1-3 Yrs Software, Python, Python Development, Flask, Software development, Development, Django"
-    },
-    {
-      "id": "nk-nk-061126915924",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Python Developer (Mid-Level)",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-mid-level-soul-ai-noida-2-to-4-years-061126915924",
-      "posted": "2026-11-06",
-      "description": "2-4 Yrs HTML, Postgresql, SQL, Linux, Numpy, Flask, Rest, Machine learning"
-    },
-    {
-      "id": "nk-nk-061126915861",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Python Developer",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-soul-ai-noida-1-to-3-years-061126915861",
-      "posted": "2026-11-06",
-      "description": "1-3 Yrs Software, Python, Python Development, Flask, Software development, Development, Django"
-    },
-    {
-      "id": "nk-nk-061126009459",
-      "source": "naukri",
-      "company": "Crisil",
-      "title": "Senior Python Developer",
-      "location": "Mumbai, Pune, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-senior-python-developer-crisil-mumbai-pune-gurugram-5-to-12-years-061126009459",
-      "posted": "2026-11-06",
-      "description": "5-12 Yrs Senior, Csv, SQL, Time, Numpy, Data Cleansing, Python, Time series"
-    },
-    {
-      "id": "nk-nk-061126916111",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Python Developer (Freelance)",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-freelance-soul-ai-noida-4-to-8-years-061126916111",
-      "posted": "2026-11-06",
-      "description": "4-8 Yrs Processing, Data processing, Data, Python, Freelancing, Flask, Process, Python Development"
-    },
-    {
-      "id": "nk-nk-061126915994",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Software Developer/Engineer (Freelancer)",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-software-developer-engineer-freelancer-soul-ai-noida-1-to-4-years-061126915994",
-      "posted": "2026-11-06",
-      "description": "1-4 Yrs SQL, Freelancing, ASP.Net, C#, Writing, Cs, Javascript, CSS"
-    },
-    {
-      "id": "nk-nk-061126916544",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Python Web Developer (Django/Flask)",
-      "location": "India",
-      "url": "https://www.naukri.com/job-listings-python-web-developer-django-flask-soul-ai-delhi-ncr-2-to-4-years-061126916544",
-      "posted": "2026-11-06",
-      "description": "2-4 Yrs HTML, Postgresql, Bootstrap, Application development, Linux, Flask, Rest, Machine learning"
-    },
-    {
-      "id": "nk-nk-061126915920",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Backend Developer - Python",
-      "location": "India",
-      "url": "https://www.naukri.com/job-listings-backend-developer-python-soul-ai-delhi-ncr-2-to-4-years-061126915920",
-      "posted": "2026-11-06",
-      "description": "2-4 Yrs J2Ee, Algorithms, SQL, NoSQL Databases, Hadoop, Javascript, Oracle, Microservices"
-    },
-    {
-      "id": "nk-nk-061126501480",
-      "source": "naukri",
-      "company": "Cradlepoint",
-      "title": "Linux Automation Engineer",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-linux-automation-engineer-cradlepoint-part-of-ericsson-noida-3-to-6-years-061126501480",
-      "posted": "2026-11-06",
-      "description": "3-6 Yrs Ceph, Linux, Craft, Cloud Infrastructure, Container, Automating, Administration, Orchestration"
-    },
-    {
-      "id": "nk-nk-061126500524",
-      "source": "naukri",
-      "company": "Mariox Software",
-      "title": "QA Automation Engineer",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-qa-automation-engineer-mariox-software-pvt-ltd-noida-2-to-5-years-061126500524",
-      "posted": "2026-11-06",
-      "description": "2-5 Yrs Scripting Languages, Program, Quality assurance, Development, Tools, Languages, Programming, Appium"
-    },
-    {
-      "id": "nk-nk-061126916220",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Automation Engineer (Freelancer)",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-automation-engineer-freelancer-soul-ai-noida-1-to-5-years-061126916220",
-      "posted": "2026-11-06",
-      "description": "1-5 Yrs Electrical engineering, HMI, Freelancing, Industrial, Automation testing, Maintenance, Electrical maintenance, Docker"
-    },
-    {
-      "id": "nk-nk-061126914964",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Automation Engineer (Freelancer)",
-      "location": "Delhi / NCR, India",
-      "url": "https://www.naukri.com/job-listings-automation-engineer-freelancer-soul-ai-delhi-ncr-1-to-5-years-061126914964",
-      "posted": "2026-11-06",
-      "description": "1-5 Yrs VFD, Freelancing, Writing, SCADA, Industrial, Data, Docker, Electrical maintenance"
-    },
-    {
-      "id": "nk-nk-061126008592",
-      "source": "naukri",
-      "company": "Wipro",
-      "title": "Senior Artificial Intelligence Engineer",
-      "location": "Delhi / NCR, Pune, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-senior-artificial-intelligence-engineer-wipro-pune-bengaluru-delhi-ncr-8-to-13-years-061126008592",
-      "posted": "2026-11-06",
-      "description": "nan 8-13 Yrs Python, Typescript, Artificial Intelligence, Senior, Javascript, Intelligence"
-    },
-    {
-      "id": "nk-nk-051126911021",
-      "source": "naukri",
-      "company": "Capgemini",
-      "title": "Software Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-051126911021",
-      "posted": "2026-11-05",
-      "description": "0-5 Yrs Software solutions, Software design, Software engineering, Programming, Engineering, Program, Software, Research"
-    },
-    {
-      "id": "nk-nk-051126501097",
-      "source": "naukri",
-      "company": "Texas Instruments",
-      "title": "Software Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-software-engineer-texas-instruments-india-ltd-bengaluru-0-to-4-years-051126501097",
-      "posted": "2026-11-05",
-      "description": "0-4 Yrs Architecture, Embedded systems, Program, Application, Embedded software, Software development, Application development, Engineering"
+      "description": "2-5 Yrs Natural language processing, Microsoft Azure, Anomaly Detection, Cloud, AWS, Analytics, Languages, Application"
     },
     {
       "id": "nk-nk-051126028633",
@@ -613,16 +293,6 @@
       "description": "6-11 Yrs React Native, Typescript, Redux, Native, Development, React.js, Javascript"
     },
     {
-      "id": "nk-nk-051126031949",
-      "source": "naukri",
-      "company": "Guidesly",
-      "title": "React Native Mobile Application Developer - Immediate joiner - Hybrid",
-      "location": "Bengaluru(Richards Town), India",
-      "url": "https://www.naukri.com/job-listings-react-native-mobile-application-developer-immediate-joiner-hybrid-guidesly-bengaluru-10-to-18-years-051126031949",
-      "posted": "2026-11-05",
-      "description": "10-18 Yrs Javascript, Intelligence, Android, jQuery, Application, Mobile applications, React Native, AWS"
-    },
-    {
       "id": "nk-nk-051126035541",
       "source": "naukri",
       "company": "CGI",
@@ -641,6 +311,26 @@
       "url": "https://www.naukri.com/job-listings-python-developer-cgi-hyderabad-bengaluru-3-to-8-years-051126035704",
       "posted": "2026-11-05",
       "description": "3-8 Yrs AWS, Python, Development, MongoDB, NoSQL, Python Development"
+    },
+    {
+      "id": "nk-nk-051126911021",
+      "source": "naukri",
+      "company": "Capgemini",
+      "title": "Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-bengaluru-0-to-5-years-051126911021",
+      "posted": "2026-11-05",
+      "description": "0-5 Yrs Software solutions, Software design, Software engineering, Programming, Engineering, Program, Software, Research"
+    },
+    {
+      "id": "nk-nk-051126501097",
+      "source": "naukri",
+      "company": "Texas Instruments",
+      "title": "Software Engineer",
+      "location": "Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-software-engineer-texas-instruments-india-ltd-bengaluru-0-to-4-years-051126501097",
+      "posted": "2026-11-05",
+      "description": "0-4 Yrs Architecture, Embedded systems, Program, Application, Embedded software, Software development, Application development, Engineering"
     },
     {
       "id": "nk-nk-051126932385",
@@ -683,76 +373,6 @@
       "description": "8-13 Yrs Software Quality, Sales And Distribution, Requirements, Quality, Business Requirements, Custom, SAP, SAP Sales And Distribution"
     },
     {
-      "id": "nk-nk-221026035352",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Generative AI Engineer",
-      "location": "Pune, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-generative-ai-engineer-infosys-pune-chennai-bengaluru-2-to-5-years-221026035352",
-      "posted": "2026-11-05",
-      "description": "2-5 Yrs Deep Learning, Artificial Intelligence, Gen"
-    },
-    {
-      "id": "nk-nk-120826009090",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Agentic AI Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-agentic-ai-engineer-infosys-bengaluru-5-to-10-years-120826009090",
-      "posted": "2026-11-05",
-      "description": "5-10 Yrs Agentic Ai, Langchain, RAG, LLM, Artificial Intelligence"
-    },
-    {
-      "id": "nk-nk-191026015409",
-      "source": "naukri",
-      "company": "Tech Mahindra",
-      "title": "AI Engineer",
-      "location": "Kolkata, Ahmedabad, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-ai-engineer-tech-mahindra-kolkata-ahmedabad-bengaluru-8-to-13-years-191026015409",
-      "posted": "2026-11-05",
-      "description": "8-13 Yrs Deep Learning, Vision, Processing, Python, Natural language processing, Computer, Machine, Artificial Intelligence"
-    },
-    {
-      "id": "nk-nk-051126926926",
-      "source": "naukri",
-      "company": "Ecolab Global Services",
-      "title": "Principal AI Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-principal-ai-engineer-ecolab-global-services-private-limited-bengaluru-8-to-13-years-051126926926",
-      "posted": "2026-11-05",
-      "description": "8-13 Yrs Ais, Architecture, Governance, Blogs, Foundry, Data, Security, System"
-    },
-    {
-      "id": "nk-nk-051126012443",
-      "source": "naukri",
-      "company": "Vipany Global",
-      "title": "Looking For Databricks AI Engineer/immediate/8-15 years/C2H",
-      "location": "Hyderabad, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-looking-for-databricks-ai-engineer-immediate-8-15-years-c2h-vipany-global-hyderabad-chennai-bengaluru-7-to-12-years-051126012443",
-      "posted": "2026-11-05",
-      "description": "7-12 Yrs Data Bricks, Pyspark, C2h, Artificial Intelligence"
-    },
-    {
-      "id": "nk-nk-051126035543",
-      "source": "naukri",
-      "company": "Varite",
-      "title": "Agentic AI Engineer",
-      "location": "Hyderabad, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-agentic-ai-engineer-varite-hyderabad-bengaluru-7-to-12-years-051126035543",
-      "posted": "2026-11-05",
-      "description": "7-12 Yrs Python, Adk, GCP, Artificial Intelligence, Microsoft Azure, Orchestration, AWS, Protocols"
-    },
-    {
-      "id": "nk-nk-040926019001",
-      "source": "naukri",
-      "company": "Epam Systems",
-      "title": "Lead AI Engineer",
-      "location": "Hyderabad, Pune, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-lead-ai-engineer-epam-systems-hyderabad-pune-bengaluru-8-to-12-years-040926019001",
-      "posted": "2026-11-05",
-      "description": "8-12 Yrs Tensorflow, Vertex, Leadership, Programming, Ci/Cd, Scikit-Learn, Data Bricks, Engineering"
-    },
-    {
       "id": "nk-nk-051126934106",
       "source": "naukri",
       "company": "Capgemini",
@@ -763,6 +383,16 @@
       "description": "1-6 Yrs Facilities, Full Stack, Change management, Procurement, Supply chain, Management, Engineering, Maintenance"
     },
     {
+      "id": "nk-nk-051126038253",
+      "source": "naukri",
+      "company": "Nxtwave Disruptive Technologies (Hiring for a Client)",
+      "title": "Full-Stack Flutter Developer",
+      "location": "Noida, India",
+      "url": "https://www.naukri.com/job-listings-full-stack-flutter-developer-nxtwave-disruptive-technologies-hiring-for-a-client-noida-1-to-3-years-051126038253",
+      "posted": "2026-11-05",
+      "description": "1-3 Yrs Typescript, Full Stack, Dart, Node.js, Flutter, Flutter Development, Stack, Development"
+    },
+    {
       "id": "nk-nk-041026004546",
       "source": "naukri",
       "company": "NGSPL",
@@ -770,217 +400,17 @@
       "location": "Gurugram(Sector 45), India",
       "url": "https://www.naukri.com/job-listings-ai-and-automation-developer-genai-ai-agents-full-stack-ngspl-gurugram-2-to-5-years-041026004546",
       "posted": "2026-11-05",
-      "description": "2-5 Yrs nan"
+      "description": "2-5 Yrs generative AI, Machine Learning, AGENTIC AI, Predictive Modeling, Langchain, Artificial Intelligence, full stack developer, Deep Learning"
     },
     {
       "id": "nk-nk-051126038628",
       "source": "naukri",
       "company": "Innova Solutions",
       "title": "Java Full Stack Developer",
-      "location": "Noida, New Delhi, Gurugram, India",
+      "location": "New Delhi, Noida, Gurugram, India",
       "url": "https://www.naukri.com/job-listings-java-full-stack-developer-innova-solutions-noida-new-delhi-gurugram-5-to-10-years-051126038628",
       "posted": "2026-11-05",
-      "description": "5-10 Yrs nan"
-    },
-    {
-      "id": "nk-nk-150626005519",
-      "source": "naukri",
-      "company": "Amosta",
-      "title": "Sr .NET Full Stack Developer - Gurgaon(WFO)",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-sr-net-full-stack-developer-gurgaon-wfo-amosta-gurugram-3-to-5-years-150626005519",
-      "posted": "2026-11-05",
-      "description": "3-5 Yrs .NET Core, Microservices, SQL, Fullstack Development, React, Angular, Full Stack, Core"
-    },
-    {
-      "id": "nk-nk-051126011910",
-      "source": "naukri",
-      "company": "Epam Systems",
-      "title": "Python Software Developer",
-      "location": "Noida, Gurugram, Delhi / NCR, India",
-      "url": "https://www.naukri.com/job-listings-python-software-developer-epam-systems-noida-gurugram-delhi-ncr-6-to-11-years-051126011910",
-      "posted": "2026-11-05",
-      "description": "6-11 Yrs nan"
-    },
-    {
-      "id": "nk-nk-051126013082",
-      "source": "naukri",
-      "company": "Epam Systems",
-      "title": "Python Software Developer",
-      "location": "Noida, Gurugram, Delhi / NCR, India",
-      "url": "https://www.naukri.com/job-listings-python-software-developer-epam-systems-noida-gurugram-delhi-ncr-6-to-11-years-051126013082",
-      "posted": "2026-11-05",
-      "description": "6-11 Yrs nan"
-    },
-    {
-      "id": "nk-nk-051126502456",
-      "source": "naukri",
-      "company": "Ashok Maheshwary & Associates",
-      "title": "AI Automation Engineer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-ai-automation-engineer-ashok-maheshwary-associates-gurugram-2-to-4-years-051126502456",
-      "posted": "2026-11-05",
-      "description": "2-4 Yrs Automation, Consulting, Artificial Intelligence, Automation Skills, Business consulting, Microsoft Azure, Automation engineering, Architecture"
-    },
-    {
-      "id": "nk-nk-051126038300",
-      "source": "naukri",
-      "company": "Tredence",
-      "title": "Senior QA Automation Test Engineer",
-      "location": "Pune, Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-senior-qa-automation-test-engineer-tredence-pune-gurugram-bengaluru-5-to-8-years-051126038300",
-      "posted": "2026-11-05",
-      "description": "5-8 Yrs Automation, Software testing, Senior QA, API Testing, Senior, Quality assurance, QA automation, API"
-    },
-    {
-      "id": "nk-nk-220926046557",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Automation Test Engineer",
-      "location": "Hyderabad, Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-infosys-hyderabad-gurugram-bengaluru-3-to-8-years-220926046557",
-      "posted": "2026-11-05",
-      "description": "3-8 Yrs Java, Automation Testing, Selenium, C#, Automation, Software testing"
-    },
-    {
-      "id": "nk-nk-051126018103",
-      "source": "naukri",
-      "company": "Epam Systems",
-      "title": "Automation Test Engineer",
-      "location": "Hyderabad, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-epam-systems-hyderabad-gurugram-5-to-10-years-051126018103",
-      "posted": "2026-11-05",
-      "description": "5-10 Yrs Automation, Software testing, Typescript, Mocha, Java Selenium, Node.js, Bdd Cucumber, Java"
-    },
-    {
-      "id": "nk-nk-040926018033",
-      "source": "naukri",
-      "company": "Epam Systems",
-      "title": "Lead JavaScript Automation Test Engineer",
-      "location": "Hyderabad, Pune, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-lead-javascript-automation-test-engineer-epam-systems-hyderabad-pune-gurugram-8-to-12-years-040926018033",
-      "posted": "2026-11-05",
-      "description": "8-12 Yrs Leadership, GUI Testing, Webdriver, O, TypeScript, UI, Puppeteer, Coding"
-    },
-    {
-      "id": "nk-nk-051126500195",
-      "source": "naukri",
-      "company": "Willware Technologies",
-      "title": "Sr Quality Engineer L1 - Automation",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-sr-quality-engineer-l1-automation-willware-technologies-private-limited-gurugram-4-to-8-years-051126500195",
-      "posted": "2026-11-05",
-      "description": "4-8 Yrs SQL, Automated Test Scripts, Migration, Stored procedures, DBMS, Data, Reconciliation, Quality"
-    },
-    {
-      "id": "nk-nk-051126009827",
-      "source": "naukri",
-      "company": "Sapient (publicissapient)",
-      "title": "Software Test Engineer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-software-test-engineer-sapient-publicissapient-gurugram-6-to-10-years-051126009827",
-      "posted": "2026-11-05",
-      "description": "6-10 Yrs nan"
-    },
-    {
-      "id": "nk-nk-051126912570",
-      "source": "naukri",
-      "company": "Natwest Digitalx",
-      "title": "Software Engineer",
-      "location": "Chennai, Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-software-engineer-natwest-digital-services-india-pvt-ltd-chennai-gurugram-bengaluru-1-to-6-years-051126912570",
-      "posted": "2026-11-05",
-      "description": "1-6 Yrs Coding, Architecture, Program, MongoDB, Agile methodology, Bug tracking, Devops, AWS"
-    },
-    {
-      "id": "nk-nk-051126036587",
-      "source": "naukri",
-      "company": "Natwest Digitalx",
-      "title": ".NET Application Developer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-net-application-developer-natwest-digitalx-gurugram-10-to-20-years-051126036587",
-      "posted": "2026-11-05",
-      "description": "10-20 Yrs Marketing, Core, C#, Javascript, .Net Core, React.js, .Net, Application"
-    },
-    {
-      "id": "nk-nk-051126031664",
-      "source": "naukri",
-      "company": "Ashniva Technologies",
-      "title": "Associate Software Intern",
-      "location": "Gurugram(Sector 48), India",
-      "url": "https://www.naukri.com/job-listings-associate-software-intern-ashniva-technologies-gurugram-0-to-1-years-051126031664",
-      "posted": "2026-11-05",
-      "description": "0-1 Yrs Software, DBMS, Software testing, Software testing, Node.js, Nextjs, API Testing, SQL"
-    },
-    {
-      "id": "nk-nk-051126502419",
-      "source": "naukri",
-      "company": "Acenet",
-      "title": "AI Engineer",
-      "location": "Indore, Chennai, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-ai-engineer-acenet-indore-chennai-gurugram-3-to-8-years-051126502419",
-      "posted": "2026-11-05",
-      "description": "3-8 Yrs Ai Solutions, Application, Docker, AWS, Chatbot, Agile, Artificial Intelligence, Backend"
-    },
-    {
-      "id": "nk-nk-051126027398",
-      "source": "naukri",
-      "company": "Tagbin Services",
-      "title": "Junior AI Engineer",
-      "location": "Gurugram, India, Haryana, India",
-      "url": "https://www.naukri.com/job-listings-junior-ai-engineer-tagbin-services-private-limited-gurugram-india-haryana-2-to-5-years-051126027398",
-      "posted": "2026-11-05",
-      "description": "2-5 Yrs Data Science, Processing, Keras, Languages, SQL, Fundamentals, Neural networks, Tensorflow"
-    },
-    {
-      "id": "nk-nk-051126031800",
-      "source": "naukri",
-      "company": "Jobaaj Com",
-      "title": "Artificial Intelligence Engineer",
-      "location": "Hyderabad, Pune, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-artificial-intelligence-engineer-jobaaj-com-hyderabad-pune-gurugram-0-to-2-years-051126031800",
-      "posted": "2026-11-05",
-      "description": "0-2 Yrs Computer, Natural language processing, Languages, Huggingface, Machine, Vision, Tensorflow, Computer vision"
-    },
-    {
-      "id": "nk-nk-051126026551",
-      "source": "naukri",
-      "company": "Tagbin Services",
-      "title": "Artificial Intelligence Engineer",
-      "location": "Gurugram, India, Haryana, India",
-      "url": "https://www.naukri.com/job-listings-artificial-intelligence-engineer-tagbin-services-private-limited-gurugram-india-haryana-2-to-5-years-051126026551",
-      "posted": "2026-11-05",
-      "description": "2-5 Yrs Algorithms, SQL, Scikit-learn, Intelligence, Computer vision, Processing, Natural language processing, Data"
-    },
-    {
-      "id": "nk-nk-051126911430",
-      "source": "naukri",
-      "company": "Optum",
-      "title": "Senior Software Engineer Lead",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-senior-software-engineer-lead-optum-global-solutions-india-private-limited-gurugram-5-to-9-years-051126911430",
-      "posted": "2026-11-05",
-      "description": "5-9 Yrs Requirements, Modernization, Microsoft Azure, Application security, Architecture, Coding, Cd Tools, Cloud"
-    },
-    {
-      "id": "nk-nk-051126926891",
-      "source": "naukri",
-      "company": "AtkinsR\u00e9alis",
-      "title": "Lead Designer / Sr. Lead Designer / BIM Engineer / Sr. BIM Engineer",
-      "location": "Noida, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-lead-designer-sr-lead-designer-bim-engineer-sr-bim-engineer-ws-atkins-india-private-limited-noida-gurugram-7-to-10-years-051126926891",
-      "posted": "2026-11-05",
-      "description": "7-10 Yrs Finance, Civil, Microsoft, Energy, Bim, Engineering drawing, 3D, Engineering"
-    },
-    {
-      "id": "nk-nk-051126926845",
-      "source": "naukri",
-      "company": "AtkinsR\u00e9alis",
-      "title": "Lead Civil & Structural Engineer (Substations)",
-      "location": "Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-lead-civil-structural-engineer-substations-ws-atkins-india-private-limited-gurugram-bengaluru-20-to-22-years-051126926845",
-      "posted": "2026-11-05",
-      "description": "20-22 Yrs Low Voltage, Requirements, Design calculations, Substation, GIS, GI, Structural engineering, Calculation"
+      "description": "5-10 Yrs Spring, Full Stack, Boot, Spring Boot, Bootstrap, React.js, Stack, Microservices"
     },
     {
       "id": "nk-nk-051126025650",
@@ -1013,126 +443,6 @@
       "description": "4-9 Yrs Node.js, Development, API, Javascript, Node"
     },
     {
-      "id": "nk-nk-051126022549",
-      "source": "naukri",
-      "company": "Tagbin Services",
-      "title": "Python Developer",
-      "location": "Gurugram, India, Haryana, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-tagbin-services-private-limited-gurugram-india-haryana-2-to-5-years-051126022549",
-      "posted": "2026-11-05",
-      "description": "2-5 Yrs HTML, SQL, Program, Flask, Rest, CRM, SFDC, Automation tools"
-    },
-    {
-      "id": "nk-nk-051126027235",
-      "source": "naukri",
-      "company": "Bean Hr Consulting",
-      "title": "Senior Python Developer",
-      "location": "Delhi / NCR, Noida, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-senior-python-developer-bean-hr-consulting-noida-gurugram-delhi-ncr-7-to-12-years-051126027235",
-      "posted": "2026-11-05",
-      "description": "7-12 Yrs Python, Pandas, Python Development, Flask, Numpy, Senior, Development, Django"
-    },
-    {
-      "id": "nk-nk-051126012737",
-      "source": "naukri",
-      "company": "Cerebra",
-      "title": "Python Developer - FastAPI/ Flask / Django",
-      "location": "New Delhi(Delhi University), Noida, Bhubaneswar, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-fastapi-flask-django-cerebra-noida-bhubaneswar-new-delhi-5-to-7-years-051126012737",
-      "posted": "2026-11-05",
-      "description": "5-7 Yrs Multithreading, SQL database, DSA, SQL, Flask, Rest, Continuous Integration, Continuous Integration"
-    },
-    {
-      "id": "nk-nk-051126038461",
-      "source": "naukri",
-      "company": "Tagbin Services",
-      "title": "Python Backend Developer.",
-      "location": "Gurugram, India, Haryana, India",
-      "url": "https://www.naukri.com/job-listings-python-backend-developer-tagbin-services-private-limited-gurugram-india-haryana-2-to-5-years-051126038461",
-      "posted": "2026-11-05",
-      "description": "2-5 Yrs Rest API Development, Program, Redis, Django, Apex, Middleware, Oauth, Swagger"
-    },
-    {
-      "id": "nk-nk-220926046268",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Automation Test Engineer",
-      "location": "Noida, Hyderabad, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-infosys-noida-hyderabad-bengaluru-3-to-8-years-220926046268",
-      "posted": "2026-11-05",
-      "description": "3-8 Yrs Java, Automation Testing, Selenium, C#, Automation, Software testing"
-    },
-    {
-      "id": "nk-nk-210926026588",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Automation Test Engineer",
-      "location": "Noida, Pune, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-infosys-noida-pune-bengaluru-3-to-8-years-210926026588",
-      "posted": "2026-11-05",
-      "description": "3-8 Yrs Java, Automation Testing, Selenium, C#, Automation, Software testing"
-    },
-    {
-      "id": "nk-nk-121026029355",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Automation Test Engineer",
-      "location": "Noida, Hyderabad, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-infosys-noida-hyderabad-bengaluru-3-to-8-years-121026029355",
-      "posted": "2026-11-05",
-      "description": "3-8 Yrs Java, Automation Testing, Selenium, C#, Rest Assured, playwright, Python"
-    },
-    {
-      "id": "nk-nk-091026034315",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Automation Test Engineer",
-      "location": "Noida, Hyderabad, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-infosys-noida-hyderabad-bengaluru-3-to-8-years-091026034315",
-      "posted": "2026-11-05",
-      "description": "3-8 Yrs Java, Automation Testing, Selenium, C#, Rest Assured, Python"
-    },
-    {
-      "id": "nk-nk-280926029561",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Automation Test Engineer",
-      "location": "Noida, Hyderabad, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-infosys-noida-hyderabad-bengaluru-3-to-8-years-280926029561",
-      "posted": "2026-11-05",
-      "description": "3-8 Yrs Java, Automation Testing, Selenium, C#, Python, Automation, Software testing"
-    },
-    {
-      "id": "nk-nk-180926036343",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Automation Test Engineer-INFY 26",
-      "location": "Noida, Hyderabad, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-infy-26-infosys-noida-hyderabad-bengaluru-3-to-8-years-180926036343",
-      "posted": "2026-11-05",
-      "description": "3-8 Yrs Java, Automation Testing, Selenium, C#, Software testing, Automation"
-    },
-    {
-      "id": "nk-nk-131026045724",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Automation Test Engineer",
-      "location": "Noida, Hyderabad, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-infosys-noida-hyderabad-bengaluru-3-to-8-years-131026045724",
-      "posted": "2026-11-05",
-      "description": "3-8 Yrs Java, Automation Testing, Selenium, C#, API Testing, Python"
-    },
-    {
-      "id": "nk-nk-011026034680",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Automation Test Engineer",
-      "location": "Noida, Hyderabad, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-infosys-noida-hyderabad-bengaluru-3-to-8-years-011026034680",
-      "posted": "2026-11-05",
-      "description": "3-8 Yrs Java, Automation Testing, Selenium, C#, playwright, Python, Automation, Software testing"
-    },
-    {
       "id": "nk-nk-051126026657",
       "source": "naukri",
       "company": "HCLTech",
@@ -1140,7 +450,27 @@
       "location": "Noida, Hyderabad, India",
       "url": "https://www.naukri.com/job-listings-ai-engineer-hcltech-noida-hyderabad-8-to-12-years-051126026657",
       "posted": "2026-11-05",
-      "description": "nan 8-12 Yrs Engineering, MySQL, Python, Artificial Intelligence"
+      "description": "8-12 Yrs Engineering, MySQL, Python, Artificial Intelligence"
+    },
+    {
+      "id": "nk-nk-051126502419",
+      "source": "naukri",
+      "company": "Acenet",
+      "title": "AI Engineer",
+      "location": "Indore, Chennai, Gurugram, India",
+      "url": "https://www.naukri.com/job-listings-ai-engineer-acenet-indore-chennai-gurugram-3-to-8-years-051126502419",
+      "posted": "2026-11-05",
+      "description": "3-8 Yrs Ai Solutions, Application, Docker, AWS, Chatbot, Agile, Artificial Intelligence, Backend"
+    },
+    {
+      "id": "nk-nk-051126027398",
+      "source": "naukri",
+      "company": "Tagbin Services",
+      "title": "Junior AI Engineer",
+      "location": "Gurugram, India, Haryana, India",
+      "url": "https://www.naukri.com/job-listings-junior-ai-engineer-tagbin-services-private-limited-gurugram-india-haryana-2-to-5-years-051126027398",
+      "posted": "2026-11-05",
+      "description": "2-5 Yrs Data Science, Processing, Keras, Languages, SQL, Fundamentals, Neural networks, Tensorflow"
     },
     {
       "id": "nk-nk-051126036120",
@@ -1150,7 +480,7 @@
       "location": "Delhi / NCR, Noida, India",
       "url": "https://www.naukri.com/job-listings-gen-ai-engineer-innovationm-noida-delhi-ncr-8-to-11-years-051126036120",
       "posted": "2026-11-05",
-      "description": "nan 8-11 Yrs Core, Artificial Intelligence, AWS, Gen, Generation"
+      "description": "8-11 Yrs Core, Artificial Intelligence, AWS, Gen, Generation"
     },
     {
       "id": "nk-nk-051126029010",
@@ -1160,17 +490,177 @@
       "location": "Noida, India",
       "url": "https://www.naukri.com/job-listings-ai-engineer-mnc-noida-industrial-personnel-network-noida-2-to-4-years-051126029010",
       "posted": "2026-11-05",
-      "description": "nan 2-4 Yrs Shipping, Machine learning, Core, Machine, Natural language processing, Python, Artificial Intelligence"
+      "description": "2-4 Yrs Shipping, Machine learning, Core, Machine, Natural language processing, Python, Artificial Intelligence"
     },
     {
-      "id": "nk-nk-051126934144",
+      "id": "nk-nk-051126031800",
       "source": "naukri",
-      "company": "Capgemini",
-      "title": "Associate Software Engineer",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-associate-software-engineer-capgemini-technology-services-india-limited-noida-0-to-4-years-051126934144",
+      "company": "Jobaaj Com",
+      "title": "Artificial Intelligence Engineer",
+      "location": "Hyderabad, Pune, Gurugram, India",
+      "url": "https://www.naukri.com/job-listings-artificial-intelligence-engineer-jobaaj-com-hyderabad-pune-gurugram-0-to-2-years-051126031800",
       "posted": "2026-11-05",
-      "description": "nan 0-4 Yrs Software development, IP, Programming, Software engineering, LAN, Software design, WiFi, Configuration"
+      "description": "0-2 Yrs Computer, Natural language processing, Languages, Huggingface, Machine, Vision, Tensorflow, Computer vision"
+    },
+    {
+      "id": "nk-nk-051126026551",
+      "source": "naukri",
+      "company": "Tagbin Services",
+      "title": "Artificial Intelligence Engineer",
+      "location": "Gurugram, India, Haryana, India",
+      "url": "https://www.naukri.com/job-listings-artificial-intelligence-engineer-tagbin-services-private-limited-gurugram-india-haryana-2-to-5-years-051126026551",
+      "posted": "2026-11-05",
+      "description": "2-5 Yrs Algorithms, SQL, Scikit-learn, Intelligence, Computer vision, Processing, Natural language processing, Data"
+    },
+    {
+      "id": "nk-nk-091026036294",
+      "source": "naukri",
+      "company": "Bounteous",
+      "title": "Senior React Developer",
+      "location": "Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-senior-react-developer-bounteous-bengaluru-5-to-8-years-091026036294",
+      "posted": "2026-11-04",
+      "description": "5-8 Yrs Css/Css3, Javascript, HTML, React.js, TypeScript, Restful API, Javascript Frameworks, CSS"
+    },
+    {
+      "id": "nk-nk-200926014684",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "Java React Developer",
+      "location": "Pune, Chennai, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-java-react-developer-infosys-pune-chennai-bengaluru-2-to-6-years-200926014684",
+      "posted": "2026-11-04",
+      "description": "2-6 Yrs Java, React, Core Java, React Developer, Reactive Programming, Architecture, Postgresql, Automated Testing"
+    },
+    {
+      "id": "nk-nk-051026931805",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "Full Stack Developer (React, Node.js, AWS, DevOps)",
+      "location": "Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-full-stack-developer-react-node-js-aws-devops-infosys-limited-bengaluru-3-to-5-years-051026931805",
+      "posted": "2026-11-04",
+      "description": "3-5 Yrs Apis, Express, Github, Node, Cloudwatch, Github Actions, Js, Datadog"
+    },
+    {
+      "id": "nk-nk-041126009968",
+      "source": "naukri",
+      "company": "Tata Consultancy Services",
+      "title": "Senior Full Stack Developer (Node JS, React )",
+      "location": "Chennai, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-senior-full-stack-developer-node-js-react-tata-consultancy-services-chennai-bengaluru-8-to-9-years-041126009968",
+      "posted": "2026-11-04",
+      "description": "8-9 Yrs Python, Angular, Node.js, Full Stack, Spring Boot, Java, Senior, Microservices"
+    },
+    {
+      "id": "nk-nk-051026931273",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "React Native Mobility Developer",
+      "location": "Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-react-native-mobility-developer-infosys-limited-bengaluru-5-to-9-years-051026931273",
+      "posted": "2026-11-04",
+      "description": "5-9 Yrs Agile, Application Architecture, Asynchronous, Azure, Architecture, Apis, Automated Testing, Api Integration"
+    },
+    {
+      "id": "nk-nk-091026912310",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "Python Developer",
+      "location": "Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-python-developer-infosys-limited-bengaluru-7-to-9-years-091026912310",
+      "posted": "2026-11-04",
+      "description": "7-9 Yrs airflow, ci/cd pipelines, data pipelines, data manipulation, data security, data processing, cloud platforms, analytics"
+    },
+    {
+      "id": "nk-nk-091026912286",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "Python Developer",
+      "location": "Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-python-developer-infosys-limited-bengaluru-2-to-5-years-091026912286",
+      "posted": "2026-11-04",
+      "description": "2-5 Yrs airflow, ci/cd pipelines, data pipelines, data manipulation, data security, data processing, cloud platforms, analytics"
+    },
+    {
+      "id": "nk-nk-041126009125",
+      "source": "naukri",
+      "company": "Mphasis",
+      "title": "Python Developer",
+      "location": "Gurugram, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-python-developer-mphasis-gurugram-bengaluru-8-to-10-years-041126009125",
+      "posted": "2026-11-04",
+      "description": "8-10 Yrs Artificial Intelligence, Cd, Glue, SQL, Python, AWS, Ml, Python Development"
+    },
+    {
+      "id": "nk-nk-030926032477",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "Python Developer(5-8yrs)",
+      "location": "Hyderabad, Chennai, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-python-developer-5-8yrs-infosys-hyderabad-chennai-bengaluru-5-to-8-years-030926032477",
+      "posted": "2026-11-04",
+      "description": "5-8 Yrs Django, Python, Django Rest API, Django Framework, Django Web Framework, Web technologies, Web Framework, Framework"
+    },
+    {
+      "id": "nk-nk-110826000068",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "Python Developer | GenAI | LLM | RAG",
+      "location": "Hyderabad, Pune, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-python-developer-genai-llm-rag-infosys-hyderabad-pune-bengaluru-3-to-5-years-110826000068",
+      "posted": "2026-11-04",
+      "description": "3-5 Yrs generative ai, LLM, Django, RAG, Python, Tensorflow, Langchain, Artificial Intelligence"
+    },
+    {
+      "id": "nk-nk-041126500450",
+      "source": "naukri",
+      "company": "Squircle IT",
+      "title": "Python Developer",
+      "location": "Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-python-developer-squircle-it-consulting-services-pvt-ltd-bengaluru-4-to-9-years-041126500450",
+      "posted": "2026-11-04",
+      "description": "4-9 Yrs HTML, Data Science, Processing, Languages, Postgresql, SQL, Linux, Flask"
+    },
+    {
+      "id": "nk-nk-100826024141",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "Python Software Developer-S",
+      "location": "Hyderabad, Chennai, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-python-software-developer-s-infosys-hyderabad-chennai-bengaluru-3-to-5-years-100826024141",
+      "posted": "2026-11-04",
+      "description": "3-5 Yrs Microservices, Django, MySQL, Python, Flask, Pyspark, RestAPI, Postgresql"
+    },
+    {
+      "id": "nk-nk-240826031542",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "Python developer (Female's Preferred)",
+      "location": "Hyderabad, Pune, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-python-developer-female-s-preferred-infosys-hyderabad-pune-bengaluru-2-to-5-years-240826031542",
+      "posted": "2026-11-04",
+      "description": "2-5 Yrs Django, Python, Flask, Rest, Django Rest API, Python Framework, Pandas, Django Framework"
+    },
+    {
+      "id": "nk-nk-110826000096",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "Python AI Developer-S",
+      "location": "Hyderabad, Chennai, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-python-ai-developer-s-infosys-hyderabad-chennai-bengaluru-3-to-5-years-110826000096",
+      "posted": "2026-11-04",
+      "description": "3-5 Yrs generative ai, LLM, Django, RAG, Python, Tensorflow, Langchain, Artificial Intelligence"
+    },
+    {
+      "id": "nk-nk-190826038484",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "Python GenAI Developer",
+      "location": "Hyderabad, Chennai, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-python-genai-developer-infosys-hyderabad-chennai-bengaluru-5-to-8-years-190826038484",
+      "posted": "2026-11-04",
+      "description": "5-8 Yrs generative ai, LLM, Django, RAG, Python, Tensorflow, Langchain, Artificial Intelligence"
     },
     {
       "id": "nk-nk-091026911999",
@@ -1353,244 +843,14 @@
       "description": "10-15 Yrs Software Engineer, C, Architecture, Software Architecture, Debugging, Maintenance, Software Solutions, Automotive"
     },
     {
-      "id": "nk-nk-091026036294",
+      "id": "nk-nk-091026927731",
       "source": "naukri",
-      "company": "Bounteous",
-      "title": "Senior React Developer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-senior-react-developer-bounteous-bengaluru-5-to-8-years-091026036294",
+      "company": "Capgemini",
+      "title": "Software Engineer",
+      "location": "Noida, India",
+      "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-noida-0-to-5-years-091026927731",
       "posted": "2026-11-04",
-      "description": "5-8 Yrs Css/Css3, Javascript, HTML, React.js, TypeScript, Restful API, Javascript Frameworks, CSS"
-    },
-    {
-      "id": "nk-nk-200926014684",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Java React Developer",
-      "location": "Pune, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-java-react-developer-infosys-pune-chennai-bengaluru-2-to-6-years-200926014684",
-      "posted": "2026-11-04",
-      "description": "2-6 Yrs Java, React, Core Java, React Developer, Reactive Programming, Architecture, Postgresql, Automated Testing"
-    },
-    {
-      "id": "nk-nk-051026931805",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Full Stack Developer (React, Node.js, AWS, DevOps)",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-full-stack-developer-react-node-js-aws-devops-infosys-limited-bengaluru-3-to-5-years-051026931805",
-      "posted": "2026-11-04",
-      "description": "3-5 Yrs Apis, Express, Github, Node, Cloudwatch, Github Actions, Js, Datadog"
-    },
-    {
-      "id": "nk-nk-041126009968",
-      "source": "naukri",
-      "company": "Tata Consultancy Services",
-      "title": "Senior Full Stack Developer (Node JS, React )",
-      "location": "Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-senior-full-stack-developer-node-js-react-tata-consultancy-services-chennai-bengaluru-8-to-9-years-041126009968",
-      "posted": "2026-11-04",
-      "description": "8-9 Yrs Python, Angular, Node.js, Full Stack, Spring Boot, Java, Senior, Microservices"
-    },
-    {
-      "id": "nk-nk-051026931273",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "React Native Mobility Developer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-react-native-mobility-developer-infosys-limited-bengaluru-5-to-9-years-051026931273",
-      "posted": "2026-11-04",
-      "description": "5-9 Yrs Agile, Application Architecture, Asynchronous, Azure, Architecture, Apis, Automated Testing, Api Integration"
-    },
-    {
-      "id": "nk-nk-051026040983",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "UI Developer (Angular/React) (3-5)",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-ui-developer-angular-react-3-5-infosys-bengaluru-3-to-5-years-051026040983",
-      "posted": "2026-11-04",
-      "description": "3-5 Yrs Node.js, JavaScript, React, Angular, TypeScript, REST API Integration, Frontend Development, HTML5"
-    },
-    {
-      "id": "nk-nk-051026035779",
-      "source": "naukri",
-      "company": "Cognizant",
-      "title": "Cognizant hiring For .NET full stack developer-React- AI(Devin/Claude)",
-      "location": "Kolkata, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-cognizant-hiring-for-net-full-stack-developer-react-ai-devin-claude-cognizant-kolkata-chennai-bengaluru-6-to-10-years-051026035779",
-      "posted": "2026-11-04",
-      "description": "6-10 Yrs generative ai, .Net full stack developer, Claude Code, Devin, React.js, Azure Cloud, Coding, Full Stack"
-    },
-    {
-      "id": "nk-nk-291026038102",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python+Django/React/Angular/Gen Ai Developer",
-      "location": "Hyderabad, Pune, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-django-react-angular-gen-ai-developer-infosys-hyderabad-pune-bengaluru-3-to-8-years-291026038102",
-      "posted": "2026-11-04",
-      "description": "3-8 Yrs SQL, Rest, React.js, Angular, API, Python, Django, Development"
-    },
-    {
-      "id": "nk-nk-081026946690",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Java Full Stack Developer (React + AI)",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-react-ai-infosys-limited-bengaluru-3-to-5-years-081026946690",
-      "posted": "2026-11-04",
-      "description": "3-5 Yrs Ai, Java, Automation, Hibernate, Generative Ai, Apis, Context Api, Html5"
-    },
-    {
-      "id": "nk-nk-091026912310",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python Developer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-infosys-limited-bengaluru-7-to-9-years-091026912310",
-      "posted": "2026-11-04",
-      "description": "7-9 Yrs airflow, ci/cd pipelines, data pipelines, data manipulation, data security, data processing, cloud platforms, analytics"
-    },
-    {
-      "id": "nk-nk-091026912286",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python Developer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-infosys-limited-bengaluru-2-to-5-years-091026912286",
-      "posted": "2026-11-04",
-      "description": "2-5 Yrs airflow, ci/cd pipelines, data pipelines, data manipulation, data security, data processing, cloud platforms, analytics"
-    },
-    {
-      "id": "nk-nk-041126009125",
-      "source": "naukri",
-      "company": "Mphasis",
-      "title": "Python Developer",
-      "location": "Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-mphasis-gurugram-bengaluru-8-to-10-years-041126009125",
-      "posted": "2026-11-04",
-      "description": "8-10 Yrs Artificial Intelligence, Cd, Glue, SQL, Python, AWS, Ml, Python Development"
-    },
-    {
-      "id": "nk-nk-030926032477",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python Developer(5-8yrs)",
-      "location": "Hyderabad, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-5-8yrs-infosys-hyderabad-chennai-bengaluru-5-to-8-years-030926032477",
-      "posted": "2026-11-04",
-      "description": "5-8 Yrs Django, Python, Django Rest API, Django Framework, Django Web Framework, Web technologies, Web Framework, Framework"
-    },
-    {
-      "id": "nk-nk-110826000068",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python Developer | GenAI | LLM | RAG",
-      "location": "Hyderabad, Pune, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-genai-llm-rag-infosys-hyderabad-pune-bengaluru-3-to-5-years-110826000068",
-      "posted": "2026-11-04",
-      "description": "3-5 Yrs generative ai, LLM, Django, RAG, Python, Tensorflow, Langchain, Artificial Intelligence"
-    },
-    {
-      "id": "nk-nk-041126500450",
-      "source": "naukri",
-      "company": "Squircle IT",
-      "title": "Python Developer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-squircle-it-consulting-services-pvt-ltd-bengaluru-4-to-9-years-041126500450",
-      "posted": "2026-11-04",
-      "description": "4-9 Yrs HTML, Data Science, Processing, Languages, Postgresql, SQL, Linux, Flask"
-    },
-    {
-      "id": "nk-nk-100826024141",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python Software Developer-S",
-      "location": "Hyderabad, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-software-developer-s-infosys-hyderabad-chennai-bengaluru-3-to-5-years-100826024141",
-      "posted": "2026-11-04",
-      "description": "3-5 Yrs Microservices, Django, MySQL, Python, Flask, Pyspark, RestAPI, Postgresql"
-    },
-    {
-      "id": "nk-nk-240826031542",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python developer (Female's Preferred)",
-      "location": "Hyderabad, Pune, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-female-s-preferred-infosys-hyderabad-pune-bengaluru-2-to-5-years-240826031542",
-      "posted": "2026-11-04",
-      "description": "2-5 Yrs Django, Python, Flask, Rest, Django Rest API, Python Framework, Pandas, Django Framework"
-    },
-    {
-      "id": "nk-nk-110826000096",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python AI Developer-S",
-      "location": "Hyderabad, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-ai-developer-s-infosys-hyderabad-chennai-bengaluru-3-to-5-years-110826000096",
-      "posted": "2026-11-04",
-      "description": "3-5 Yrs generative ai, LLM, Django, RAG, Python, Tensorflow, Langchain, Artificial Intelligence"
-    },
-    {
-      "id": "nk-nk-190826038484",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python GenAI Developer",
-      "location": "Hyderabad, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-genai-developer-infosys-hyderabad-chennai-bengaluru-5-to-8-years-190826038484",
-      "posted": "2026-11-04",
-      "description": "5-8 Yrs generative ai, LLM, Django, RAG, Python, Tensorflow, Langchain, Artificial Intelligence"
-    },
-    {
-      "id": "nk-nk-061026916892",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python developer willing To Work on testing",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-willing-to-work-on-testing-infosys-limited-bengaluru-3-to-5-years-061026916892",
-      "posted": "2026-11-04",
-      "description": "3-5 Yrs Agile, Automation, Apis, Data Structures, Automated Testing, Python Developer, Json, Devops"
-    },
-    {
-      "id": "nk-nk-061026916949",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python developer willing To Work on testing",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-willing-to-work-on-testing-infosys-limited-bengaluru-5-to-9-years-061026916949",
-      "posted": "2026-11-04",
-      "description": "5-9 Yrs Agile, Automation, Apis, Data Structures, Automated Testing, Python Developer, Json, Devops"
-    },
-    {
-      "id": "nk-nk-300826005162",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Backend Python Developer",
-      "location": "Hyderabad, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-backend-python-developer-infosys-hyderabad-chennai-bengaluru-2-to-7-years-300826005162",
-      "posted": "2026-11-04",
-      "description": "2-7 Yrs Restfull API, Django Rest API, Django, MySQL, Python, Nginx, Github, Postgresql"
-    },
-    {
-      "id": "nk-nk-191026019869",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python Developer (React/Angular)",
-      "location": "Pune, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-react-angular-infosys-pune-chennai-bengaluru-2-to-7-years-191026019869",
-      "posted": "2026-11-04",
-      "description": "2-7 Yrs Python, Angular, Python Development, Flask, Full Stack, SQL, Development, Django"
-    },
-    {
-      "id": "nk-nk-280926032134",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Backend Python Developer",
-      "location": "Hyderabad, Pune, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-backend-python-developer-infosys-hyderabad-pune-bengaluru-2-to-3-years-280926032134",
-      "posted": "2026-11-04",
-      "description": "2-3 Yrs Python, Unit Testing, Github, Postgresql, Fast API, HTML, Ci/Cd, Angular"
+      "description": "0-5 Yrs communication skills, ip configuration, ticketing system, operating systems, yoga, networking, csat, windows os"
     },
     {
       "id": "nk-nk-091026929549",
@@ -1683,126 +943,6 @@
       "description": "15-20 Yrs software engineer, front end, restful, version control, angular, r, restful apis, git"
     },
     {
-      "id": "nk-nk-051026906443",
-      "source": "naukri",
-      "company": "Accenture",
-      "title": "Custom Software Engineer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-7-to-12-years-051026906443",
-      "posted": "2026-11-04",
-      "description": "7-12 Yrs agile, business requirements, software design, cloud platforms, distributed computing, cloud, software architecture, agile methodologies"
-    },
-    {
-      "id": "nk-nk-041126924650",
-      "source": "naukri",
-      "company": "Accenture",
-      "title": "Custom Software Engineer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-041126924650",
-      "posted": "2026-11-04",
-      "description": "5-10 Yrs Requirements, UI, Agile methodology, Development, Agile Software, Sapui5, Software development, UX"
-    },
-    {
-      "id": "nk-nk-061026023967",
-      "source": "naukri",
-      "company": "Cognizant",
-      "title": "AI Engineer - Agentic AI",
-      "location": "Hyderabad, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-ai-engineer-agentic-ai-cognizant-hyderabad-chennai-bengaluru-5-to-9-years-061026023967",
-      "posted": "2026-11-04",
-      "description": "5-9 Yrs Agentic Ai, generative ai, AI ENGINEER, Artificial Intelligence"
-    },
-    {
-      "id": "nk-nk-051026033380",
-      "source": "naukri",
-      "company": "Capco",
-      "title": "Hiring AI Engineers For Bangalore & Pune",
-      "location": "Pune, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-hiring-ai-engineers-for-bangalore-pune-capco-pune-bengaluru-5-to-10-years-051026033380",
-      "posted": "2026-11-04",
-      "description": "5-10 Yrs Artificial Intelligence, Natural Language Processing, Python, Languages, Hiring, Intelligence, Processing, Process"
-    },
-    {
-      "id": "nk-nk-051026930503",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "AI Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-ai-engineer-infosys-limited-bengaluru-2-to-7-years-051026930503",
-      "posted": "2026-11-04",
-      "description": "2-7 Yrs Ai, Airflow, Orchestration, Langchain, Faiss, Llm, Pinecone, Llmops"
-    },
-    {
-      "id": "nk-nk-051026930370",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "AI Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-ai-engineer-infosys-limited-bengaluru-9-to-14-years-051026930370",
-      "posted": "2026-11-04",
-      "description": "9-14 Yrs Ai, Airflow, Orchestration, Langchain, Faiss, Llm, Llmops, Nlp"
-    },
-    {
-      "id": "nk-nk-051026005478",
-      "source": "naukri",
-      "company": "Cognizant",
-      "title": "Gen Ai Engineer",
-      "location": "Kolkata, Pune, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-gen-ai-engineer-cognizant-kolkata-pune-bengaluru-5-to-10-years-051026005478",
-      "posted": "2026-11-04",
-      "description": "5-10 Yrs Data Science, Generative Ai, gen ai, Python, Artificial Intelligence, Data, Science, Gen"
-    },
-    {
-      "id": "nk-nk-041126025943",
-      "source": "naukri",
-      "company": "LTM",
-      "title": "Gen AI Engineer",
-      "location": "Hyderabad, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-gen-ai-engineer-ltm-hyderabad-chennai-bengaluru-5-to-10-years-041126025943",
-      "posted": "2026-11-04",
-      "description": "5-10 Yrs Data Science, Azure Cognitive Services, Artificial Intelligence, Cognitive, Data, Python, Microsoft Azure, Science"
-    },
-    {
-      "id": "nk-nk-041126027659",
-      "source": "naukri",
-      "company": "Goavega Software India",
-      "title": "Agentic AI and Generative AI  Engineers",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-agentic-ai-and-generative-ai-engineers-goavega-software-india-bengaluru-7-to-12-years-041126027659",
-      "posted": "2026-11-04",
-      "description": "7-12 Yrs Python, Rest, Artificial Intelligence"
-    },
-    {
-      "id": "nk-nk-041126027418",
-      "source": "naukri",
-      "company": "Kiya.ai",
-      "title": "Databricks AI Engineer",
-      "location": "Hyderabad, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-databricks-ai-engineer-kiya-ai-hyderabad-bengaluru-3-to-7-years-041126027418",
-      "posted": "2026-11-04",
-      "description": "3-7 Yrs Artificial Intelligence, Data Bricks"
-    },
-    {
-      "id": "nk-nk-041126011265",
-      "source": "naukri",
-      "company": "Orcapod Consulting Services",
-      "title": "Agentic AI Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-agentic-ai-engineer-orcapod-consulting-services-bengaluru-10-to-12-years-041126011265",
-      "posted": "2026-11-04",
-      "description": "10-12 Yrs Docker, Searching, Microsoft Azure, Coding, Architecture, Cloud, Infrastructure, Continuous Integration"
-    },
-    {
-      "id": "nk-nk-041126023234",
-      "source": "naukri",
-      "company": "Callesto",
-      "title": "MLOps + AI Engineer",
-      "location": "Hyderabad, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-mlops-ai-engineer-callesto-hyderabad-chennai-bengaluru-10-to-13-years-041126023234",
-      "posted": "2026-11-04",
-      "description": "10-13 Yrs Machine, Continuous Integration, Artificial Intelligence, Microsoft Azure, Machine learning, Cd, Continuous Integration, Intelligence"
-    },
-    {
       "id": "nk-nk-041126503095",
       "source": "naukri",
       "company": "Perfectiongeeks Technologies",
@@ -1810,7 +950,27 @@
       "location": "Gurugram, India",
       "url": "https://www.naukri.com/job-listings-full-stack-developer-perfectiongeeks-technologies-gurugram-3-to-8-years-041126503095",
       "posted": "2026-11-04",
-      "description": "3-8 Yrs nan"
+      "description": "3-8 Yrs Full Stack, SQL, Quality assurance, Backend, GIT, Javascript, Administration, Web technologies"
+    },
+    {
+      "id": "nk-nk-310826006816",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "Java Full Stack Developer (5-15 Years)",
+      "location": "Noida, Pune, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-5-15-years-infosys-noida-pune-bengaluru-5-to-10-years-310826006816",
+      "posted": "2026-11-04",
+      "description": "5-10 Yrs Java, Spring Boot, React.js, Microservices, Angular, TypeScript, Fullstack Development, Javascript"
+    },
+    {
+      "id": "nk-nk-280826011127",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "Java Full Stack Developer",
+      "location": "Noida, Pune, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-infosys-noida-pune-bengaluru-8-to-13-years-280826011127",
+      "posted": "2026-11-04",
+      "description": "8-13 Yrs Java, Spring Boot, Microservices, Fullstack Development, Angularjs, Java Fullstack, Angular, SQL"
     },
     {
       "id": "nk-nk-061026007577",
@@ -1823,284 +983,14 @@
       "description": "6-8 Yrs Java, react, Spring Boot, AWS, Microservices, Javascript, Boot, Bootstrap"
     },
     {
-      "id": "nk-nk-071026049185",
+      "id": "nk-nk-290726020257",
       "source": "naukri",
       "company": "Iris Software",
-      "title": "Full Stack .Net Developer",
-      "location": "Noida, Pune, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-full-stack-net-developer-iris-software-noida-pune-gurugram-5-to-10-years-071026049185",
+      "title": "Java Full Stack Developer",
+      "location": "Noida, India",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-iris-software-noida-6-to-7-years-290726020257",
       "posted": "2026-11-04",
-      "description": "5-10 Yrs C#, Web API, .NET Core, LInQ, Angular, API, Core, Full Stack"
-    },
-    {
-      "id": "nk-nk-100726013064",
-      "source": "naukri",
-      "company": "Greensturn",
-      "title": "Fullstack Developer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-fullstack-developer-greensturn-gurugram-3-to-5-years-100726013064",
-      "posted": "2026-11-04",
-      "description": "3-5 Yrs nan"
-    },
-    {
-      "id": "nk-nk-041126024589",
-      "source": "naukri",
-      "company": "Zippee",
-      "title": "Full Stack Engineer - Golang",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-full-stack-engineer-golang-zippee-gurugram-3-to-7-years-041126024589",
-      "posted": "2026-11-04",
-      "description": "3-7 Yrs nan"
-    },
-    {
-      "id": "nk-nk-071026028960",
-      "source": "naukri",
-      "company": "Caterpillar Signs",
-      "title": "Technical Lead - Full Stack ( React.js and Node.js)",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-technical-lead-full-stack-react-js-and-node-js-caterpillar-signs-gurugram-7-to-12-years-071026028960",
-      "posted": "2026-11-04",
-      "description": "7-12 Yrs Node.js, React.js, Express, Node, Javascript, Full Stack, MongoDB, AWS"
-    },
-    {
-      "id": "nk-nk-081026018154",
-      "source": "naukri",
-      "company": "Cognizant",
-      "title": "Sr.Java Fullstack Developer (Angular)",
-      "location": "Hyderabad, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-sr-java-fullstack-developer-angular-cognizant-hyderabad-gurugram-6-to-10-years-081026018154",
-      "posted": "2026-11-04",
-      "description": "6-10 Yrs nan"
-    },
-    {
-      "id": "nk-nk-041126014100",
-      "source": "naukri",
-      "company": "Bravura Solutions",
-      "title": "Senior Developer Java",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-senior-developer-java-bravura-solutions-gurugram-5-to-8-years-041126014100",
-      "posted": "2026-11-04",
-      "description": "5-8 Yrs nan"
-    },
-    {
-      "id": "nk-nk-041126013945",
-      "source": "naukri",
-      "company": "Bounteous",
-      "title": "UniVerse Developer",
-      "location": "Gurugram, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-universe-developer-bounteous-gurugram-chennai-bengaluru-5-to-10-years-041126013945",
-      "posted": "2026-11-04",
-      "description": "5-10 Yrs nan"
-    },
-    {
-      "id": "nk-nk-240225009960",
-      "source": "naukri",
-      "company": "Keyideas Infotech",
-      "title": "Shopify App Developer",
-      "location": "India",
-      "url": "https://www.naukri.com/job-listings-shopify-app-developer-keyideas-infotech-gurugram-3-to-7-years-240225009960",
-      "posted": "2026-11-04",
-      "description": "3-7 Yrs nan"
-    },
-    {
-      "id": "nk-nk-081026946681",
-      "source": "naukri",
-      "company": "Axtria",
-      "title": "Manager",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-manager-axtria-india-private-limited-gurugram-4-to-9-years-081026946681",
-      "posted": "2026-11-04",
-      "description": "4-9 Yrs Ajax, Azure, Css, Database Systems, Api Design, Architecture, Github, Code Quality"
-    },
-    {
-      "id": "nk-nk-041126027601",
-      "source": "naukri",
-      "company": "Nurture Xcel",
-      "title": "BIM Automation Engineer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-bim-automation-engineer-nurture-xcel-gurugram-3-to-5-years-041126027601",
-      "posted": "2026-11-04",
-      "description": "3-5 Yrs Dynamo, Automation, Construction, Bim, C#, Autodesk, Cloud, REVIT"
-    },
-    {
-      "id": "nk-nk-041126021289",
-      "source": "naukri",
-      "company": "Intelaltus Llp",
-      "title": "Senior Test Automation Engineer",
-      "location": "Gurugram(Sector 49), India",
-      "url": "https://www.naukri.com/job-listings-senior-test-automation-engineer-intelaltus-llp-gurugram-10-to-15-years-041126021289",
-      "posted": "2026-11-04",
-      "description": "10-15 Yrs Automation, Python, Typescript, UI, Software testing, UI Automation, UI Automation Testing, GUI testing"
-    },
-    {
-      "id": "nk-nk-041126008647",
-      "source": "naukri",
-      "company": "R.K. Bansal Finance",
-      "title": "Senior Quality Assurance Automation Engineer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-senior-quality-assurance-automation-engineer-r-k-bansal-finance-gurugram-6-to-9-years-041126008647",
-      "posted": "2026-11-04",
-      "description": "6-9 Yrs Automation, Software testing, Java Selenium, Java, Quality, Senior, Assurance, Quality assurance"
-    },
-    {
-      "id": "nk-nk-041126014368",
-      "source": "naukri",
-      "company": "Prohuman Technology",
-      "title": "Walk-in || Senior Associate (Front Office UI Automation  Engineer)",
-      "location": "Pune, Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-senior-associate-front-office-ui-automation-engineer-prohuman-technology-pune-gurugram-bengaluru-5-to-7-years-041126014368",
-      "posted": "2026-11-04",
-      "description": "5-7 Yrs Senior, SQL, UI Automation, UI, Office, Front, Front office, Python"
-    },
-    {
-      "id": "nk-nk-041126502863",
-      "source": "naukri",
-      "company": "Kyndryl",
-      "title": "Software Test Engineer - Automation & Performance (QA Test Engineer)",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-software-test-engineer-automation-performance-qa-test-engineer-kyndryl-gurugram-10-to-15-years-041126502863",
-      "posted": "2026-11-04",
-      "description": "10-15 Yrs Customer focus, Core, Bonds, Appium, Automation testing, Continuous Integration, Automation tools, Continuous Integration"
-    },
-    {
-      "id": "nk-nk-041126028515",
-      "source": "naukri",
-      "company": "Prohuman Technology",
-      "title": "Python Playwright Automation Engineer",
-      "location": "Pune, Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-playwright-automation-engineer-prohuman-technology-pune-gurugram-bengaluru-4-to-9-years-041126028515",
-      "posted": "2026-11-04",
-      "description": "4-9 Yrs Automation, SQL, Python"
-    },
-    {
-      "id": "nk-nk-041126029326",
-      "source": "naukri",
-      "company": "Epam Systems",
-      "title": "SDET / Automation Test Engineer",
-      "location": "Hyderabad, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-sdet-automation-test-engineer-epam-systems-hyderabad-gurugram-7-to-12-years-041126029326",
-      "posted": "2026-11-04",
-      "description": "7-12 Yrs Selenium, Automation, Software testing, Typescript, Cypress, Automation testing, Javascript, SDET"
-    },
-    {
-      "id": "nk-nk-041126013195",
-      "source": "naukri",
-      "company": "Bounteous",
-      "title": "Qa Automation Lead",
-      "location": "Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-qa-automation-lead-bounteous-gurugram-bengaluru-8-to-13-years-041126013195",
-      "posted": "2026-11-04",
-      "description": "8-13 Yrs Continuous Integration, Automation, Artificial Intelligence, Cd, Continuous Integration, Python, Javas, Java"
-    },
-    {
-      "id": "nk-nk-041126028786",
-      "source": "naukri",
-      "company": "Schneider Electric",
-      "title": "Senior Edge Application Developer",
-      "location": "Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-senior-edge-application-developer-schneider-electric-gurugram-bengaluru-7-to-12-years-041126028786",
-      "posted": "2026-11-04",
-      "description": "7-12 Yrs Application, Edge, Computation, Modbus, IOT, Gateways, Python, Bacnet"
-    },
-    {
-      "id": "nk-nk-041126020542",
-      "source": "naukri",
-      "company": "Wipro",
-      "title": ".Net fullstack with React and AI",
-      "location": "Hyderabad, Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-net-fullstack-with-react-and-ai-wipro-hyderabad-gurugram-bengaluru-7-to-12-years-041126020542",
-      "posted": "2026-11-04",
-      "description": "7-12 Yrs nan"
-    },
-    {
-      "id": "nk-nk-041126924617",
-      "source": "naukri",
-      "company": "Accenture",
-      "title": "Application Developer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-application-developer-accenture-solutions-pvt-ltd-gurugram-2-to-5-years-041126924617",
-      "posted": "2026-11-04",
-      "description": "2-5 Yrs Application, Requirement gathering, Business process, Application development, Requirements, UX, Process, Usage"
-    },
-    {
-      "id": "nk-nk-041126503100",
-      "source": "naukri",
-      "company": "Perfectiongeeks Technologies",
-      "title": "Node.js Developer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-node-js-developer-perfectiongeeks-technologies-gurugram-3-to-8-years-041126503100",
-      "posted": "2026-11-04",
-      "description": "3-8 Yrs DBMS, Node.js, End, Deployment, Front, SQL, Backend, Development"
-    },
-    {
-      "id": "nk-nk-041126015009",
-      "source": "naukri",
-      "company": "Iris Software",
-      "title": "Software Engineer",
-      "location": "Noida, Pune, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-software-engineer-iris-software-noida-pune-gurugram-6-to-8-years-041126015009",
-      "posted": "2026-11-04",
-      "description": "6-8 Yrs Software, Angular, Spring Boot, Software engineering, Java, Bootstrap, Microservices, AWS"
-    },
-    {
-      "id": "nk-nk-071026942125",
-      "source": "naukri",
-      "company": "S&P Global Market Intelligence",
-      "title": "Lead AI Engineer (Agentic Systems)",
-      "location": "Hyderabad, Ahmedabad, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-lead-ai-engineer-agentic-systems-s-p-capital-iq-india-pvt-ltd-hyderabad-ahmedabad-gurugram-7-to-12-years-071026942125",
-      "posted": "2026-11-04",
-      "description": "7-12 Yrs AI, kubernetes, python, natural language processing, databricks, llm, machine learning, artificial intelligence"
-    },
-    {
-      "id": "nk-nk-041126018915",
-      "source": "naukri",
-      "company": "Iris Software",
-      "title": "Inviting Applications For Gen AI Engineer at Iris Software",
-      "location": "Noida, Pune, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-inviting-applications-for-gen-ai-engineer-at-iris-software-iris-software-noida-pune-gurugram-5-to-8-years-041126018915",
-      "posted": "2026-11-04",
-      "description": "5-8 Yrs IRIS, Application, Artificial Intelligence, Software engineering, Python, Gen, Generation, Software"
-    },
-    {
-      "id": "nk-nk-041126016435",
-      "source": "naukri",
-      "company": "Iris Software",
-      "title": "Lead Machine Learning Engineer",
-      "location": "Noida, Gurugram, Delhi / NCR, India",
-      "url": "https://www.naukri.com/job-listings-lead-machine-learning-engineer-iris-software-noida-gurugram-delhi-ncr-8-to-10-years-041126016435",
-      "posted": "2026-11-04",
-      "description": "8-10 Yrs Algorithms, Scikit-learn, Intelligence, Computer vision, Processing, Natural language processing, Data, Vision"
-    },
-    {
-      "id": "nk-nk-081026946605",
-      "source": "naukri",
-      "company": "VOLKSWAGEN GROUP DIGITAL SOLUTIONS PRIVATE LIMITED",
-      "title": "Sr. Expert - Data Engineering",
-      "location": "Pune, Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-sr-expert-data-engineering-volkswagen-group-technology-solutions-india-private-limited-pune-gurugram-bengaluru-4-to-8-years-081026946605",
-      "posted": "2026-11-04",
-      "description": "4-8 Yrs Adls, Azure, Data Engineering, Data Pipelines, Architecture, Azure Databricks, Analytics, Azure Data Factory"
-    },
-    {
-      "id": "nk-nk-091026911820",
-      "source": "naukri",
-      "company": "Accenture",
-      "title": "Custom Software Engineering Lead",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-custom-software-engineering-lead-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-091026911820",
-      "posted": "2026-11-04",
-      "description": "5-10 Yrs architecture, design concepts, software development, servicenow platform, it service management, code quality, servicenow it service management, servicenow"
-    },
-    {
-      "id": "nk-nk-071026925604",
-      "source": "naukri",
-      "company": "Accenture",
-      "title": "Custom Software Engineering Lead",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-custom-software-engineering-lead-accenture-solutions-pvt-ltd-gurugram-5-to-10-years-071026925604",
-      "posted": "2026-11-04",
-      "description": "5-10 Yrs agile, debug, business requirements, networking concepts, enterprise applications, networking, code quality, core java"
+      "description": "6-7 Yrs Java, Spring Boot, Java Fullstack, Angular, Microservices, SQL, Spring, Full Stack"
     },
     {
       "id": "nk-nk-041126018242",
@@ -2123,124 +1013,24 @@
       "description": "3-6 Yrs React.js, CSS, Github, Frontend Development, Javascript, HTML, Cs, Web technologies"
     },
     {
-      "id": "nk-nk-091026927731",
+      "id": "nk-nk-041126028786",
       "source": "naukri",
-      "company": "Capgemini",
-      "title": "Software Engineer",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-software-engineer-capgemini-technology-services-india-limited-noida-0-to-5-years-091026927731",
+      "company": "Schneider Electric",
+      "title": "Senior Edge Application Developer",
+      "location": "Gurugram, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-senior-edge-application-developer-schneider-electric-gurugram-bengaluru-7-to-12-years-041126028786",
       "posted": "2026-11-04",
-      "description": "0-5 Yrs communication skills, ip configuration, ticketing system, operating systems, yoga, networking, csat, windows os"
+      "description": "7-12 Yrs Application, Edge, Computation, Modbus, IOT, Gateways, Python, Bacnet"
     },
     {
-      "id": "nk-nk-041126919432",
+      "id": "nk-nk-041126020542",
       "source": "naukri",
-      "company": "Accenture",
-      "title": "Custom Software Engineer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-2-to-7-years-041126919432",
+      "company": "Wipro",
+      "title": ".Net fullstack with React and AI",
+      "location": "Hyderabad, Gurugram, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-net-fullstack-with-react-and-ai-wipro-hyderabad-gurugram-bengaluru-7-to-12-years-041126020542",
       "posted": "2026-11-04",
-      "description": "2-7 Yrs Monitoring tools, Tools, Program, Languages, Linux, Automation Studio, Software, Agile"
-    },
-    {
-      "id": "nk-nk-041126009272",
-      "source": "naukri",
-      "company": "Allegis Group",
-      "title": "Python Software Developer",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-python-software-developer-allegis-group-noida-4-to-6-years-041126009272",
-      "posted": "2026-11-04",
-      "description": "4-6 Yrs Software development, Administration, Gen administration, API, Python, Development, Gen, Software"
-    },
-    {
-      "id": "nk-nk-021126011039",
-      "source": "naukri",
-      "company": "Vlink",
-      "title": "Python Software Developer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-python-software-developer-vlink-gurugram-5-to-10-years-021126011039",
-      "posted": "2026-11-04",
-      "description": "5-10 Yrs Software development, SQL, Python, Development, Software"
-    },
-    {
-      "id": "nk-nk-041126013936",
-      "source": "naukri",
-      "company": "Capgemini",
-      "title": "Backend Python Developer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-backend-python-developer-capgemini-gurugram-9-to-12-years-041126013936",
-      "posted": "2026-11-04",
-      "description": "9-12 Yrs Python, Python Development, Flask, Backend, SQL, Backend Development, Development, AWS"
-    },
-    {
-      "id": "nk-nk-280826011696",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python Fullstack Developer (5-15 Years)",
-      "location": "Noida, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-fullstack-developer-5-15-years-infosys-noida-chennai-bengaluru-5-to-10-years-280826011696",
-      "posted": "2026-11-04",
-      "description": "5-10 Yrs Fullstack Development, Django, React.js, Angular, Python, TypeScript, Angularjs, Fast API"
-    },
-    {
-      "id": "nk-nk-230626047109",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python Fullstack Developer",
-      "location": "Delhi / NCR, Kolkata, Chennai, India",
-      "url": "https://www.naukri.com/job-listings-python-fullstack-developer-infosys-kolkata-chennai-delhi-ncr-10-to-15-years-230626047109",
-      "posted": "2026-11-04",
-      "description": "10-15 Yrs Design Patterns, Data Structures, Full Stack, Algorithms, Python, CSS, System Design, Problem Solving"
-    },
-    {
-      "id": "nk-nk-121026036621",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python Fullstack Developer/Architect(8-16 years)",
-      "location": "Delhi / NCR, Kolkata, Pune, India",
-      "url": "https://www.naukri.com/job-listings-python-fullstack-developer-architect-8-16-years-infosys-kolkata-pune-delhi-ncr-8-to-13-years-121026036621",
-      "posted": "2026-11-04",
-      "description": "8-13 Yrs Data Structures, Angular, React.js, AWS, Python, System Design, Design Patterns, OOPS"
-    },
-    {
-      "id": "nk-nk-121026036614",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python Fullstack Developer/Architect(8-16 years)",
-      "location": "Delhi / NCR, Kolkata, Pune, India",
-      "url": "https://www.naukri.com/job-listings-python-fullstack-developer-architect-8-16-years-infosys-kolkata-pune-delhi-ncr-10-to-16-years-121026036614",
-      "posted": "2026-11-04",
-      "description": "10-16 Yrs Data Structures, Angular, React.js, AWS, Python, System Design, Design Patterns, OOPS"
-    },
-    {
-      "id": "nk-nk-210626005076",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Automation Test Engineer-PAN-Infosys",
-      "location": "Delhi / NCR, Pune, Mumbai (All Areas), India",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-pan-infosys-infosys-pune-delhi-ncr-mumbai-all-areas-5-to-10-years-210626005076",
-      "posted": "2026-11-04",
-      "description": "5-10 Yrs Java, Automation Testing, Selenium, Automation, Software testing"
-    },
-    {
-      "id": "nk-nk-150626039349",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Automation Test Engineer-Infosys-pan india",
-      "location": "Delhi / NCR, Pune, Mumbai (All Areas), India",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-infosys-pan-india-infosys-pune-delhi-ncr-mumbai-all-areas-5-to-10-years-150626039349",
-      "posted": "2026-11-04",
-      "description": "5-10 Yrs Java, Automation Testing, Selenium, Automation, Software testing"
-    },
-    {
-      "id": "nk-nk-041126022239",
-      "source": "naukri",
-      "company": "gen Z Solutions",
-      "title": "Automation Test Engineer",
-      "location": "Pune, Greater Noida, India",
-      "url": "https://www.naukri.com/job-listings-automation-test-engineer-gen-z-solutions-pune-greater-noida-3-to-5-years-041126022239",
-      "posted": "2026-11-04",
-      "description": "3-5 Yrs Automation, Software testing, Java, Quality assurance, QA automation, Automation testing, Selenium"
+      "description": "7-12 Yrs nan"
     },
     {
       "id": "nk-nk-220726001840",
@@ -2250,7 +1040,7 @@
       "location": "India",
       "url": "https://www.naukri.com/job-listings-ai-engineer-espire-infolabs-delhi-ncr-5-to-10-years-220726001840",
       "posted": "2026-11-04",
-      "description": "nan 5-10 Yrs Salesforce, Open, Salesforce Integration, Microsoft Azure, Integration, API, Python, Artificial Intelligence"
+      "description": "5-10 Yrs Salesforce, Open, Salesforce Integration, Microsoft Azure, Integration, API, Python, Artificial Intelligence"
     },
     {
       "id": "nk-nk-071026028317",
@@ -2260,7 +1050,7 @@
       "location": "Noida, Hyderabad, Pune, India",
       "url": "https://www.naukri.com/job-listings-gen-ai-engineer-coforge-noida-hyderabad-pune-6-to-11-years-071026028317",
       "posted": "2026-11-04",
-      "description": "nan 6-11 Yrs Generative Ai, RAG, Agentic Ai, genai, Aiml, LLM, Machine Learning, Deep Learning"
+      "description": "6-11 Yrs Generative Ai, RAG, Agentic Ai, genai, Aiml, LLM, Machine Learning, Deep Learning"
     },
     {
       "id": "nk-nk-041126502984",
@@ -2270,7 +1060,7 @@
       "location": "Noida, India",
       "url": "https://www.naukri.com/job-listings-ai-engineer-techcarrot-fz-llc-noida-2-to-4-years-041126502984",
       "posted": "2026-11-04",
-      "description": "nan 2-4 Yrs Azure App Service, Automation testing, Continuous Integration, Continuous Integration, Application, Microsoft Azure, Factory, Azure Data Factory"
+      "description": "2-4 Yrs Azure App Service, Automation testing, Continuous Integration, Continuous Integration, Application, Microsoft Azure, Factory, Azure Data Factory"
     },
     {
       "id": "nk-nk-011126003297",
@@ -2280,27 +1070,17 @@
       "location": "Delhi / NCR, India",
       "url": "https://www.naukri.com/job-listings-gen-ai-engineer-voireai-consulting-delhi-ncr-5-to-10-years-011126003297",
       "posted": "2026-11-04",
-      "description": "nan 5-10 Yrs Machine, Machine learning, Gen, Artificial Intelligence"
+      "description": "5-10 Yrs Machine, Machine learning, Gen, Artificial Intelligence"
     },
     {
-      "id": "nk-nk-041126026746",
+      "id": "nk-nk-071026942125",
       "source": "naukri",
-      "company": "Rmsi",
-      "title": "Software Engineer- Applied AI",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-software-engineer-applied-ai-rmsi-noida-0-to-2-years-041126026746",
+      "company": "S&P Global Market Intelligence",
+      "title": "Lead AI Engineer (Agentic Systems)",
+      "location": "Hyderabad, Ahmedabad, Gurugram, India",
+      "url": "https://www.naukri.com/job-listings-lead-ai-engineer-agentic-systems-s-p-capital-iq-india-pvt-ltd-hyderabad-ahmedabad-gurugram-7-to-12-years-071026942125",
       "posted": "2026-11-04",
-      "description": "Role: Build intelligent applications and systems that leverage the latest advancements in AI to solve real world business and engineering challenges. We are looking for software engineers who are passionate about building AI-powered products, autonomous agents and intelligent workflows. In this role, you will work with large language models (LLMs), AI agents, workflow orchestration frameworks and modern software engineering technologies to develop solutions that can reason, interact with tools, automate complex tasks and streamline business processes. You will contribute to building end-to-end AI applications, integrating multiple systems and translating emerging AI capabilities into practical, production-ready solutions. Responsibilities: Build agentic systems capable of reasoning, planning, using tools, interacting with external systems and executing multi-step tasks. Design and develop AI-powered applications, agents and workflows to automate complex tasks and business processes. Integrate large language models (LLMs) such as OpenAI, Gemini and Claude into applications using APIs, function calling and structured outputs. Develop backend services, APIs and frontend components to build and deliver end-to-end AI-powered products. Work with agent orchestration frameworks, workflow automation tools and supporting infrastructure to build scalable and reliable AI solutions. Experiment with emerging AI techniques, frameworks and models to identify opportunities for building new capabilities and improving existing solutions. Develop evals and benchmarks to evaluate, monitor and improve the accuracy, reliability, performance and cost efficiency of AI-powered applications. Preferred candidate profile : Bachelor's from Tier 1 university (IIT D, IIT R, DTU (prev DCE), NSUT (prev NSIT), BITS Pilani) in Computer Science, Information Technology, Software Engineering, MAC or a related technical field. Strong programming skills in Python and familiarity with JavaScript/TypeScript. Good understanding of data structures, algorithms, object-oriented programming and software engineering fundamentals. Familiarity with backend development, REST APIs, databases and modern web development frameworks. Understanding of LLMs, prompt engineering, function calling, structured outputs and working with LLM APIs such as OpenAI, Gemini or Claude. Familiarity with AI agents, agentic workflows, orchestration frameworks and automation concepts. Proficiency with Git and basic software development practices. 0-2 Yrs Open, Coding, Languages, Javas, Large, Rest, Javascript, Intelligence"
-    },
-    {
-      "id": "nk-nk-041126013403",
-      "source": "naukri",
-      "company": "Arise Solutions",
-      "title": "5y+Senior Generative AI Engineer-Healthcare Domain-Remote-Upto60Lpa",
-      "location": "Delhi / NCR, Kolkata, Hyderabad, Pune, Ahmedabad, Chennai, Bengaluru, Mumbai (All Areas), India",
-      "url": "https://www.naukri.com/job-listings-5y-senior-generative-ai-engineer-healthcare-domain-remote-upto60lpa-arise-solutions-kolkata-hyderabad-pune-ahmedabad-chennai-bengaluru-delhi-ncr-mumbai-all-areas-5-to-10-years-041126013403",
-      "posted": "2026-11-04",
-      "description": "nan 5-10 Yrs Healthcare, Ml, Medical Records, Processing, HL7, Process, Medical, Artificial Intelligence"
+      "description": "7-12 Yrs AI, kubernetes, python, natural language processing, databricks, llm, machine learning, artificial intelligence"
     },
     {
       "id": "nk-nk-031126026339",
@@ -2363,26 +1143,6 @@
       "description": "5-9 Yrs nan"
     },
     {
-      "id": "nk-nk-140826000068",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python React FullStack Developer-S",
-      "location": "Hyderabad, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-react-fullstack-developer-s-infosys-hyderabad-chennai-bengaluru-2-to-3-years-140826000068",
-      "posted": "2026-11-03",
-      "description": "2-3 Yrs SQL, Django, React.js, AWS, Python, Azure, Github, Postgresql"
-    },
-    {
-      "id": "nk-nk-031126021283",
-      "source": "naukri",
-      "company": "Photon",
-      "title": "React Native Developer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-react-native-developer-photon-bengaluru-6-to-9-years-031126021283",
-      "posted": "2026-11-03",
-      "description": "6-9 Yrs Mobile applications, Application development, Mobile application development, Javascript, React.js, Native, Native App, React Native Js"
-    },
-    {
       "id": "nk-nk-031126929050",
       "source": "naukri",
       "company": "Infosys",
@@ -2423,106 +1183,6 @@
       "description": "5-10 Yrs Automotive, Cloud Services, C++, Integration, Automation testing, Continuous Integration, Automation tools, Cloud Integration"
     },
     {
-      "id": "nk-nk-031126028779",
-      "source": "naukri",
-      "company": "Wissen Technology",
-      "title": "Python Software Developer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-software-developer-wissen-technology-bengaluru-5-to-10-years-031126028779",
-      "posted": "2026-11-03",
-      "description": "5-10 Yrs Software development, Pipeline management, Software, Management, Intelligence, Python, Development, Pipeline"
-    },
-    {
-      "id": "nk-nk-031126029171",
-      "source": "naukri",
-      "company": "Sgic Cloud Technologies",
-      "title": "AI Engineer Fresher",
-      "location": "India",
-      "url": "https://www.naukri.com/job-listings-ai-engineer-fresher-cloud-tech-bengaluru-0-to-5-years-031126029171",
-      "posted": "2026-11-03",
-      "description": "0-5 Yrs Data Science, Processing, Artificial Intelligence, Vision, Languages, Intelligence, Data, Python"
-    },
-    {
-      "id": "nk-nk-031126028024",
-      "source": "naukri",
-      "company": "Emids Technologies",
-      "title": "AI Engineer",
-      "location": "Noida, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-ai-engineer-emids-technologies-noida-bengaluru-7-to-12-years-031126028024",
-      "posted": "2026-11-03",
-      "description": "7-12 Yrs Python, Artificial Intelligence, Java, Tensorflow, Pytorch, Ai Techniques, Intelligence, Algorithms"
-    },
-    {
-      "id": "nk-nk-011026010816",
-      "source": "naukri",
-      "company": "Qikrecruit",
-      "title": "Lead AI Engineer",
-      "location": "Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-lead-ai-engineer-qikrecruit-bengaluru-6-to-9-years-011026010816",
-      "posted": "2026-11-03",
-      "description": "6-9 Yrs generative ai, Artificial Intelligence, Machine Learning, Python, Machine, Intelligence"
-    },
-    {
-      "id": "nk-nk-031126028563",
-      "source": "naukri",
-      "company": "Datamatics",
-      "title": "Hiring AI & LLM Engineer with Datamatics For Mumbai/Bangalore",
-      "location": "Mumbai, Bengaluru, Mumbai (All Areas), India",
-      "url": "https://www.naukri.com/job-listings-hiring-ai-llm-engineer-with-datamatics-for-mumbai-bangalore-datamatics-mumbai-bengaluru-mumbai-all-areas-3-to-8-years-031126028563",
-      "posted": "2026-11-03",
-      "description": "3-8 Yrs Algorithms, Ai Platform, Hiring, Chatbot, Intelligence, Chatbot Development, Generation, Aiml"
-    },
-    {
-      "id": "nk-nk-050926000031",
-      "source": "naukri",
-      "company": "Epam Systems",
-      "title": "Sr Automation Engineer Playwright+Typescript/Javascript(F2F Interview)",
-      "location": "Hyderabad, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-sr-automation-engineer-playwright-typescript-javascript-f2f-interview-epam-systems-hyderabad-gurugram-6-to-11-years-050926000031",
-      "posted": "2026-11-03",
-      "description": "6-11 Yrs TypeScript, Playwright, Automation Testing, Cypress, Javascript, Protractor, Mocha, Cucumber"
-    },
-    {
-      "id": "nk-nk-010926038225",
-      "source": "naukri",
-      "company": "Epam Systems",
-      "title": "Automation engineer using Java-Selenium-F2F Interview",
-      "location": "Hyderabad, Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-automation-engineer-using-java-selenium-f2f-interview-epam-systems-hyderabad-gurugram-6-to-11-years-010926038225",
-      "posted": "2026-11-03",
-      "description": "6-11 Yrs Selenium Testing, Rest Assured, Page Object Model, Automation Testing, Java Selenium, Java, BDD Cucumber, Ci/Cd"
-    },
-    {
-      "id": "nk-nk-031126019961",
-      "source": "naukri",
-      "company": "Om Tat Sat Solutions",
-      "title": "Lead AI Engineer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-lead-ai-engineer-om-tat-sat-solutions-gurugram-11-to-15-years-031126019961",
-      "posted": "2026-11-03",
-      "description": "11-15 Yrs Studio, Azure Cognitive Services, Artificial Intelligence, Cognitive, Foundry, Python, Microsoft Azure, Vector"
-    },
-    {
-      "id": "nk-nk-031126021745",
-      "source": "naukri",
-      "company": "SHL",
-      "title": "Senior AI Engineer",
-      "location": "Gurugram, India",
-      "url": "https://www.naukri.com/job-listings-senior-ai-engineer-shl-gurugram-3-to-7-years-031126021745",
-      "posted": "2026-11-03",
-      "description": "3-7 Yrs Senior, Machine learning, Machine, Languages, Deep Learning, Intelligence, Processing, Python"
-    },
-    {
-      "id": "nk-nk-031126500672",
-      "source": "naukri",
-      "company": "Digioxide Technologies",
-      "title": "Frontend Developer (Angular / React)",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-frontend-developer-angular-react-digioxide-technologies-private-limited-noida-3-to-6-years-031126500672",
-      "posted": "2026-11-03",
-      "description": "3-6 Yrs HTML, Typescript, UX, Rest, Management, CSS, Angular React, Application"
-    },
-    {
       "id": "nk-nk-070326009888",
       "source": "naukri",
       "company": "Vichara Technologies",
@@ -2531,16 +1191,6 @@
       "url": "https://www.naukri.com/job-listings-c-react-full-stack-developer-vichara-technologies-delhi-ncr-4-to-6-years-070326009888",
       "posted": "2026-11-03",
       "description": "4-6 Yrs C#, SQL, Typescript, Flask, Redux, Azure Devops, Sqlalchemy, Fullstack Development"
-    },
-    {
-      "id": "nk-nk-031126020606",
-      "source": "naukri",
-      "company": "Tech Mahindra",
-      "title": "Python Backend Developer",
-      "location": "Noida, Pune, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-backend-developer-tech-mahindra-noida-pune-bengaluru-5-to-7-years-031126020606",
-      "posted": "2026-11-03",
-      "description": "5-7 Yrs AWS, Backend, Rest, API, Python, Django, Development, Flask"
     },
     {
       "id": "nk-nk-100826024093",
@@ -2553,14 +1203,54 @@
       "description": "2-3 Yrs Java, Hibernate, Spring Boot, Microservices, React.js, Angularjs, Maven, CSS"
     },
     {
-      "id": "nk-nk-031126501258",
+      "id": "nk-nk-031126019656",
       "source": "naukri",
-      "company": "Sourceright Technologies",
-      "title": "QA Automation Engineer",
+      "company": "Optum",
+      "title": "Java Full Stack Developer",
       "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-qa-automation-engineer-sourceright-technologies-india-private-limited-noida-2-to-7-years-031126501258",
+      "url": "https://www.naukri.com/job-listings-java-full-stack-developer-optum-noida-3-to-7-years-031126019656",
       "posted": "2026-11-03",
-      "description": "2-7 Yrs Application testing, Firmware, Embedded systems, Application, Mobile applications, Quality, Quality assurance, Assurance"
+      "description": "3-7 Yrs Server, Postgresql, Full Stack, Spring Boot, Java, SQL, Microservices, Github"
+    },
+    {
+      "id": "nk-nk-031126500673",
+      "source": "naukri",
+      "company": "Digioxide Technologies",
+      "title": "Sr Full Stack Developer (Laravel / PHP)",
+      "location": "Noida, India",
+      "url": "https://www.naukri.com/job-listings-sr-full-stack-developer-laravel-php-digioxide-technologies-private-limited-noida-5-to-10-years-031126500673",
+      "posted": "2026-11-03",
+      "description": "5-10 Yrs Application, API, Laravel, SR, Web application, Web technologies, MySQL, GIT"
+    },
+    {
+      "id": "nk-nk-031126500672",
+      "source": "naukri",
+      "company": "Digioxide Technologies",
+      "title": "Frontend Developer (Angular / React)",
+      "location": "Noida, India",
+      "url": "https://www.naukri.com/job-listings-frontend-developer-angular-react-digioxide-technologies-private-limited-noida-3-to-6-years-031126500672",
+      "posted": "2026-11-03",
+      "description": "3-6 Yrs HTML, Typescript, UX, Rest, Management, CSS, Angular React, Application"
+    },
+    {
+      "id": "nk-nk-031126019961",
+      "source": "naukri",
+      "company": "Om Tat Sat Solutions",
+      "title": "Lead AI Engineer",
+      "location": "Gurugram, India",
+      "url": "https://www.naukri.com/job-listings-lead-ai-engineer-om-tat-sat-solutions-gurugram-11-to-15-years-031126019961",
+      "posted": "2026-11-03",
+      "description": "11-15 Yrs Studio, Azure Cognitive Services, Artificial Intelligence, Cognitive, Foundry, Python, Microsoft Azure, Vector"
+    },
+    {
+      "id": "nk-nk-031126028024",
+      "source": "naukri",
+      "company": "Emids Technologies",
+      "title": "AI Engineer",
+      "location": "Noida, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-ai-engineer-emids-technologies-noida-bengaluru-7-to-12-years-031126028024",
+      "posted": "2026-11-03",
+      "description": "7-12 Yrs Python, Artificial Intelligence, Java, Tensorflow, Pytorch, Ai Techniques, Intelligence, Algorithms"
     },
     {
       "id": "nk-nk-031126026135",
@@ -2570,7 +1260,7 @@
       "location": "Noida, Pune, Chennai, India",
       "url": "https://www.naukri.com/job-listings-gen-ai-engineer-ambiquest-hyderabad-noida-pune-chennai-4-to-9-years-031126026135",
       "posted": "2026-11-03",
-      "description": "nan 4-9 Yrs Processing, Keras, Docker Container, Languages, Tensorflow, Hadoop, Microsoft, Container"
+      "description": "4-9 Yrs Processing, Keras, Docker Container, Languages, Tensorflow, Hadoop, Microsoft, Container"
     },
     {
       "id": "nk-nk-211026014677",
@@ -2580,7 +1270,7 @@
       "location": "Noida, India",
       "url": "https://www.naukri.com/job-listings-artificial-intelligence-engineer-growqr-noida-5-to-8-years-211026014677",
       "posted": "2026-11-03",
-      "description": "nan 5-8 Yrs Node.js, Intelligence, Generation, .Net, API, Java, Python, Artificial Intelligence"
+      "description": "5-8 Yrs Node.js, Intelligence, Generation, .Net, API, Java, Python, Artificial Intelligence"
     }
   ]
 }
