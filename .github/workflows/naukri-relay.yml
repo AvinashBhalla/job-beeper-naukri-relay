@@ -18,6 +18,17 @@ jobs:
       - name: Checkout relay repository
         uses: actions/checkout@v4
 
+      - name: Load last-good published feed
+        run: |
+          remote_ref="$(git ls-remote --heads origin refs/heads/naukri-relay)"
+          if [ -n "$remote_ref" ]; then
+            git fetch --no-tags origin refs/heads/naukri-relay:refs/remotes/origin/naukri-relay
+            git show origin/naukri-relay:dashboard/data/naukri_relay.json > last_good_naukri_relay.json
+            test -s last_good_naukri_relay.json
+          else
+            printf '{"jobs":[]}\n' > last_good_naukri_relay.json
+          fi
+
       - name: Checkout private app config only
         uses: actions/checkout@v4
         with:
@@ -51,6 +62,25 @@ jobs:
 
           scan_started = time.monotonic()
           config = json.loads(Path("private-app/v2/config.json").read_text(encoding="utf-8"))
+          last_good = json.loads(
+              Path("last_good_naukri_relay.json").read_text(encoding="utf-8")
+          )
+          if not isinstance(last_good, dict):
+              raise SystemExit("Last-good Naukri feed must be a JSON object")
+          last_good_jobs = last_good.get("jobs", [])
+          if not isinstance(last_good_jobs, list):
+              raise SystemExit("Last-good Naukri feed has no valid jobs array")
+          previous_by_id, previous_by_url = {}, {}
+          for previous in last_good_jobs:
+              if not isinstance(previous, dict):
+                  continue
+              previous_id = str(previous.get("id") or "").strip()
+              previous_url = str(previous.get("url") or "").strip()
+              if previous_id:
+                  previous_by_id[previous_id] = previous
+              if previous_url:
+                  previous_by_url[previous_url] = previous
+          previous_feed_updated_at = last_good.get("updated_at")
           queries = config.get("naukri_queries", [])
           locations = config.get("naukri_locations", ["India"])
           if not queries:
@@ -121,8 +151,11 @@ jobs:
               f"elapsed={time.monotonic()-scan_started:.1f}s",
               flush=True,
           )
-          if failed_targets and not collected:
-              raise SystemExit("All Naukri searches failed; preserving the last-good feed")
+          if failed_targets:
+              raise SystemExit(
+                  f"{len(failed_targets)} of {len(targets)} Naukri searches failed; "
+                  "preserving the last-good feed rather than publishing a partial snapshot"
+              )
 
           def sort_key(job):
               value = job.get("posted")
@@ -137,8 +170,24 @@ jobs:
           jobs.sort(key=sort_key, reverse=True)
           if not jobs:
               raise SystemExit("No Naukri jobs collected; preserving the last-good feed")
+          observed_at = dt.datetime.now(dt.timezone.utc).isoformat()
+          for job in jobs:
+              previous = (
+                  previous_by_id.get(str(job.get("id") or ""))
+                  or previous_by_url.get(str(job.get("url") or ""))
+              )
+              first_observed_at = None
+              if previous:
+                  first_observed_at = (
+                      previous.get("relay_first_observed_at")
+                      or previous.get("relay_last_observed_at")
+                      or previous_feed_updated_at
+                  )
+              job["relay_first_observed_at"] = first_observed_at or observed_at
+              job["relay_last_observed_at"] = observed_at
+
           payload = {
-              "updated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
+              "updated_at": observed_at,
               "count": len(jobs),
               "jobs": jobs[:500],
           }
