@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T01:30:35.173272+00:00",
-  "count": 325,
+  "updated_at": "2026-11-08T01:35:26.185145+00:00",
+  "count": 323,
   "jobs": [
     {
       "id": "nk-nk-071126006833",
@@ -643,26 +643,6 @@
       "description": "About Us: Soul AI is a pioneering company founded by IIT Bombay and IIM Ahmedabad alumni, with a strong founding team from IITs, NITs, and BITS We specialize in delivering high-quality human-curated data, AI-first scaled operations services, and more Based in SF and Hyderabad, we are a young, fast-moving team on a mission to build AI for Good, driving innovation and positive societal impact We are seeking skilled Python Developers with a minimum of 1 year of development experience to join us as freelancers and contribute to impactful projects Key Responsibilities: Write clean, efficient code for data processing and transformation Debug and resolve technical issues Evaluate and review code to ensure quality and compliance Required Qualifications: 1+ year of Python development experience Proficient in frameworks like Django, Flask, or Fast API Strong problem-solving skills and ability to meet deadlines remotely Why Join Us Competitive pay (\u201a1000/hour) Flexible hours Remote opportunity NOTEPay will vary by project and typically is up to Rs 1000 per hour (if you work an average of 3 hours every day that could be as high as Rs 90K per month) once you clear our screening process Shape the future of AI with Soul AI! 4-8 Yrs Python Development, Docker, Freelancing, SQL Server, Development, AWS, MongoDB, Linux"
     },
     {
-      "id": "nk-nk-061126918660",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Backend Developer - Python",
-      "location": "India",
-      "url": "https://www.naukri.com/job-listings-backend-developer-python-soul-ai-bengaluru-2-to-4-years-061126918660",
-      "posted": "2026-11-06",
-      "description": "Were hiring a Python Backend Developer to build reliable APIs and services. Key Responsibilities:Design and build scalable backend services. Create APIs and handle database interactions. Ensure code performance and maintainability. Work with devops and deployment tools. Required Qualifications:2+ years in backend development with Python. Experience with Flask/Django and REST APIs. Familiarity with SQL/NoSQL databases. 2-4 Yrs HTML, SQL, Flask, Hadoop, Rest, Backend, Big Data, Hive"
-    },
-    {
-      "id": "nk-nk-061126025375",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Python Fullstack Developer",
-      "location": "Hyderabad, Chennai, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-python-fullstack-developer-infosys-hyderabad-chennai-bengaluru-5-to-8-years-061126025375",
-      "posted": "2026-11-06",
-      "description": "Key Responsibilities Design, develop, test, and deploy scalable web applications using Python and modern frontend technologies. Develop robust backend services using Python frameworks such as Django , Flask , or FastAPI . Build responsive and user-friendly interfaces using React.js , Angular , or Vue.js . Develop and consume RESTful APIs and microservices. Perform database design, optimization, and integration using SQL and NoSQL databases. Implement authentication, authorization, and security best practices. Collaborate with DevOps teams for CI/CD pipeline implementation and cloud deployments. Troubleshoot, debug, and optimize application performance. Participate in code reviews and ensure adherence to coding standards and best practices. Work within Agile/Scrum teams and contribute to sprint planning and delivery. 5-8 Yrs Algorithms, Full Stack, Design patterns, AWS, Fullstack Development, Javascript, Data structures, React.js"
-    },
-    {
       "id": "nk-nk-061126025297",
       "source": "naukri",
       "company": "Infosys",
@@ -681,6 +661,26 @@
       "url": "https://www.naukri.com/job-listings-rest-api-developer-python-soul-ai-bengaluru-2-to-4-years-061126918420",
       "posted": "2026-11-06",
       "description": "We are seeking a Python developer with strong REST API development experience. Key Responsibilities: Build and maintain RESTful APIs using Flask, FastAPI, or Django Ensure security, scalability, and performance Write clean documentation and testing suites Integrate APIs with external services and frontends Required Qualifications: 2+ years of Python development experience Deep understanding of REST standards Experience with API testing tools and versioning 2-4 Yrs J2Ee, SQL, Boot, Javascript, Spring Boot, Microservices, Rest API Development, Tools"
+    },
+    {
+      "id": "nk-nk-061126918758",
+      "source": "naukri",
+      "company": "Soul Ai",
+      "title": "REST API Developer (Python)",
+      "location": "India",
+      "url": "https://www.naukri.com/job-listings-rest-api-developer-python-soul-ai-bengaluru-2-to-4-years-061126918758",
+      "posted": "2026-11-06",
+      "description": "We are seeking a Python developer with strong REST API development experience. Key Responsibilities:Build and maintain RESTful APIs using Flask, FastAPI, or Django. Ensure security, scalability, and performance. Write clean documentation and testing suites. Integrate APIs with external services and frontends. Required Qualifications:2+ years of Python development experience. Deep understanding of REST standards. Experience with API testing tools and versioning. 2-4 Yrs Python Development, Maven, Docker, Rest, Development, AWS, Tools, MongoDB"
+    },
+    {
+      "id": "nk-nk-090725011705",
+      "source": "naukri",
+      "company": "Choice Consultants",
+      "title": "Senior Backend Developer-Python (Immediate joiners & F2F Interview)",
+      "location": "Bengaluru(HSR Layout), India",
+      "url": "https://www.naukri.com/job-listings-senior-backend-developer-python-immediate-joiners-f2f-interview-choice-consultants-bengaluru-4-to-6-years-090725011705",
+      "posted": "2026-11-06",
+      "description": "Backend Developer position, we are specifically looking for someone with 3 or 3+ years of experience in Backend. Mandatory Skills: Core Java - 3 years or more MySQL - 3 years or more SpringBoot - 3 years or more Required Candidate profile Good to have: Python NodeJS AWS 4-6 Yrs Python, Spring Boot, Core Java Development, Java, Core, MySQL, Backend, Senior"
     },
     {
       "id": "nk-nk-061126502583",
@@ -1823,96 +1823,6 @@
       "description": "Hi, greetings from Intellics Global! Looking for Sr IT Recruiter/ Client Coordinator / C2H Hiring/ Immediate Joiner only We are hiring Female (Work from Home) Requirement Details: Qualification: - Any Graduation or Post Graduation Experience- 3 year above IT Recruitment and Client Coordination is must Fully work from home Timings: - 9:30AM to 6:30PM 2nd and 4th sat off 1st, 3rd, 5th Saturday 9.30 am to 5 pm Consider 1 year gap only Immediate Joiner Must have own Laptop/Desktop with Internet Connection. Client Coordinator: Job and Responsibility Having good experience in Client Coordination Client Interaction Directly dealing with SPOCS and end to end recruitment as well. Punctual about the given work Good knowledge about IT Recruitment End to End IT Recruitment for both C2H and Permanent Position Interacting with Clients and Understanding their technical requirements Coordinate Interviews and Follow up. Maintaining Data Base and Documentation. Salary upto 22K depend upon Experience and Interview Preferred Candidate: Mostly Exp should be in Consultancy Background Technically very sound and should have knowledge of current technologies Should be having deep knowledge experience in Niche IT SKILLS, SAP Modules, Oracle, Cloud technology, ERP, Full Stack Developer, Java, C++, Dot Net, Devops and many more. Good knowledge of Screening, Mass Mailing, Job Posting & Sourcing and Job Portal and End to End Recruitment Closure in C2H and Perm Hiring per month with maximum package Should be aware of client process of recruitment Like duplicacy, profile uploading, Tools used by client Should be working with MNC client Interested candidates can mail resume or call me directly for further process Best Regards, Arpita Singh | Sr Executive Talent Acquisition. IT Services | IT Staffing Services Contact No- 9348481495 arpitas@intellicsglobal.com Intellics Global Services Pvt. Ltd. ( Formerly IT Source Global Services Pvt. Ltd ) | | www.intellicsglobal.com IT Source is a leading company in IT Services , IT Staffing and Business Process Outsourcing Company.Founded in 2004 , IT Source is helping business to transform their business operation. We serve large fortune 500 companies in India delivering services across IT Domains; Infrastructure, Data-Centers, Data Science , AI ,SAP and many more 3-7 Yrs IT recruitment, End To End, Consultancy, End To End Recruitment, C2h, End, Acquisition, Recruitment"
     },
     {
-      "id": "nk-nk-061126918598",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Frontend Developer (React/Next.js)",
-      "location": "India",
-      "url": "https://www.naukri.com/job-listings-frontend-developer-react-next-js-soul-ai-delhi-ncr-2-to-4-years-061126918598",
-      "posted": "2026-11-06",
-      "description": "About Us: Soul AI is a purpose-driven AI company founded by IIT/IIM alumni. With operations in SF and Hyderabad, we build platforms that combine scale, performance, and social impact. Were hiring a Frontend Developer with expertise in React and Next. js to create fast, responsive user interfaces. Key Responsibilities:Build modern, performant web apps using React and Next. js. Implement SSR, dynamic routing, and component optimization. Collaborate with backend and design teams. Write clean, maintainable frontend code. Required Qualifications:2+ years in frontend development. Strong knowledge of React, Next. js, and modern JavaScript. Familiarity with CSS frameworks and frontend tooling. 2-4 Yrs Typescript, UI, Sass, Redux, Nextjs, Frontend Development, Searching, Development"
-    },
-    {
-      "id": "nk-nk-061126918549",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Frontend Developer (React/Next.js)",
-      "location": "New Delhi, India",
-      "url": "https://www.naukri.com/job-listings-frontend-developer-react-next-js-soul-ai-new-delhi-2-to-4-years-061126918549",
-      "posted": "2026-11-06",
-      "description": "We are hiring a Frontend Developer with expertise in React and Next. js to create fast, responsive user interfaces. Key Responsibilities: Build modern, performant web apps using React and Next js Implement SSR, dynamic routing, and component optimization Collaborate with backend and design teams Write clean, maintainable frontend code . Required Qualifications: 2+ years in frontend development Strong knowledge of React, Next js, and modern JavaScript Familiarity with CSS frameworks and frontend tooling 2-4 Yrs HTML, CMS Framework, UI development, Bootstrap, Typescript, Searching, Framework, Redux"
-    },
-    {
-      "id": "nk-nk-061126915907",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Frontend Developer (React/Next.js)",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-frontend-developer-react-next-js-soul-ai-noida-2-to-4-years-061126915907",
-      "posted": "2026-11-06",
-      "description": "We are hiring a Frontend Developer with expertise in React and Next. js to create fast, responsive user interfaces. Key Responsibilities: Build modern, performant web apps using React and Next js Implement SSR, dynamic routing, and component optimization Collaborate with backend and design teams Write clean, maintainable frontend code . Required Qualifications: 2+ years in frontend development Strong knowledge of React, Next js, and modern JavaScript Familiarity with CSS frameworks and frontend tooling 2-4 Yrs HTML, CMS Framework, UI development, Bootstrap, Typescript, Searching, Framework, Redux"
-    },
-    {
-      "id": "nk-nk-061126018335",
-      "source": "naukri",
-      "company": "Innovatiview",
-      "title": "Fullstack Developer (Golang + React.JS)",
-      "location": "Noida, India",
-      "url": "https://www.naukri.com/job-listings-fullstack-developer-golang-react-js-innovatiview-noida-3-to-8-years-061126018335",
-      "posted": "2026-11-06",
-      "description": "Role: Fullstack developer (Golang + React) Experience: 3+ Years Location: Noida Job Summary We are looking for a Fullstack Developer with strong expertise in Golang (Backend) and working experience of React (Frontend). The ideal candidate should have experience developing, scaling and optimising high-performance applications, preferably handling platforms with 10M+ users. Key Responsibilities Design, develop and maintain scalable backend services using Golang. Build REST APIs, business logic, integrations and data-processing workflows. Work on frontend development and integration using React. Optimise application performance, API response times, database queries and resource utilisation. Develop and maintain applications supporting 10M+ users. Identify and troubleshoot production issues, performance bottlenecks and concurrency-related challenges. Work with databases, caching mechanisms and distributed systems. Collaborate with Product, QA and DevOps teams for end-to-end delivery. Participate in code reviews, technical discussions and application architecture decisions. Required Skills & Qualifications 3+ years of professional software development experience. Strong hands-on experience in Golang (Go) and backend development. Working experience of React.js, JavaScript and TypeScript . Experience building RESTful APIs and scalable backend applications. Experience working on production applications serving 10M+ users. Strong understanding of data structures, algorithms, concurrency and multithreading. Experience with SQL/NoSQL databases, data modelling and query optimisation. Knowledge of distributed systems, caching and asynchronous processing. Proficiency in Git, debugging and automated testing. Good to Have Experience with Docker and Kubernetes. Exposure to AWS, Azure or other cloud platforms. Knowledge of Kafka, RabbitMQ or other message queues. Experience with monitoring, logging and application performance optimisation. Experience handling high-traffic applications and large-scale datasets. Key Skills: Golang, GoLang, Go Developer, Backend Development, React.js, JavaScript, TypeScript, REST API, Microservices, Distributed Systems, SQL, NoSQL, Docker, Kubernetes, Performance Optimisation. 3-8 Yrs Fullstack Development, Golang, React.js, Full Stack, Development"
-    },
-    {
-      "id": "nk-nk-061126917672",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "React.js Expert",
-      "location": "India",
-      "url": "https://www.naukri.com/job-listings-react-js-expert-soul-ai-delhi-2-to-4-years-061126917672",
-      "posted": "2026-11-06",
-      "description": "We\u2019re seeking an experienced React Developer to join us and build engaging, scalable front-end applications. Key Responsibilities : Build responsive web applications using React js. Collaborate with designers and backend developers for seamless integration. Optimize performance and maintain code quality. Implement reusable UI components. Required Qualifications: 2+ years of React js development experience. Strong knowledge of JavaScript (ES6+), HTML, and CSS. Experience with Redux, Hooks, and REST APIs. 2-4 Yrs Typescript, UI, Sass, Redux, Searching, Rest, Development, Web designing"
-    },
-    {
-      "id": "nk-nk-061126918989",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Web Application Developer (JS Frameworks)",
-      "location": "New Delhi, India",
-      "url": "https://www.naukri.com/job-listings-web-application-developer-js-frameworks-soul-ai-new-delhi-2-to-4-years-061126918989",
-      "posted": "2026-11-06",
-      "description": "Key Responsibilities: Build interactive, scalable web applications Use frameworks like React, Angular, or Vue Collaborate on API integrations Write testable, modular frontend code Required Qualifications: 2+ years of experience with at least one JS framework Proficient in HTML, CSS, JavaScript, and REST APIs Strong focus on UI/UX quality and performance 2-4 Yrs HTML, Vue.js, C#, SQL, Bootstrap, Application development, UI/UX, UX"
-    },
-    {
-      "id": "nk-nk-061126918988",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "Web Application Developer (JS Frameworks)",
-      "location": "India",
-      "url": "https://www.naukri.com/job-listings-web-application-developer-js-frameworks-soul-ai-delhi-ncr-2-to-4-years-061126918988",
-      "posted": "2026-11-06",
-      "description": "We are looking for a Web Application Developer with experience in modern JS frameworks. Key Responsibilities:Build interactive, scalable web applications. Use frameworks like React, Angular, or Vue. Collaborate on API integrations. Write testable, modular frontend code. Required Qualifications:2+ years of experience with at least one JS framework. Proficient in HTML, CSS, JavaScript, and REST APIs. Strong focus on UI/UX quality and performance. 2-4 Yrs Angular, UI, MVC, SQL Server, Rest, Java Frameworks, Development, Application"
-    },
-    {
-      "id": "nk-nk-071026049680",
-      "source": "naukri",
-      "company": "Infosys",
-      "title": "Reactjs and Nodejs Developer",
-      "location": "Delhi / NCR, Pune, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-reactjs-and-nodejs-developer-infosys-pune-bengaluru-delhi-ncr-5-to-8-years-071026049680",
-      "posted": "2026-11-06",
-      "description": "Job Description React JS & Node JS Developer Job Title: React JS & Node JS Developer Experience: 5-8 Years Employment Type: Full-Time Job Summary We are looking for a talented React JS & Node JS Developer to build scalable, high-performance web applications. The ideal candidate should have strong experience in developing responsive front-end applications using React.js and robust back-end services using Node.js. The role involves collaborating with cross-functional teams to design, develop, test, and deploy end-to-end solutions. Key Responsibilities Develop and maintain dynamic, responsive web applications using React JS . Design and build scalable RESTful APIs and backend services using Node JS and Express.js. Develop reusable UI components and front-end libraries. Implement state management using Redux, Context API, or similar frameworks. Integrate frontend applications with backend APIs and third-party services. Optimize applications for maximum speed, scalability, and performance. Write clean, maintainable, and efficient code following coding standards and best practices. Participate in code reviews, debugging, and troubleshooting activities. Collaborate with UI/UX designers, product managers, and QA teams. Work within Agile/Scrum development methodologies. Ensure application security, data protection, and performance optimization. Required Skills Front-End Strong proficiency in React JS JavaScript (ES6+) HTML5, CSS3, Bootstrap, Material UI Redux, Context API React Hooks Responsive Web Design AJAX, Fetch API, Axios Back-End Strong experience in Node JS Express.js framework REST API Development Authentication & Authorization (JWT, OAuth) Microservices Architecture API Integration Database MongoDB PostgreSQL / MySQL Database Design and Query Optimization Tools & Technologies Git, GitHub, GitLab, Bitbucket Jenkins / CI-CD Pipelines Docker (preferred) AWS/Azure (preferred) Postman Agile/Scrum Required Qualifications Bachelor's degree in Computer Science, Information Technology, Engineering, or related field. 3+ years of experience in Full Stack Development. Strong understanding of software development lifecycle (SDLC). Experience with version control systems and deployment processes. Preferred Skills Experience with TypeScript. Experience in cloud platforms (AWS, Azure, GCP). Knowledge of GraphQL. Experience with Microservices Architecture. Understanding of DevOps practices and containerization. Familiarity with unit testing frameworks such as Jest, Mocha, or React Testing Library. Key Competencies Problem-solving skills Analytical thinking Strong communication skills Team collaboration Ability to work in a fast-paced environment Ownership and accountability Keywords React JS, React Developer, Node JS, Express JS, JavaScript, TypeScript, Redux, REST API, MongoDB, PostgreSQL, MySQL, Full Stack Developer, Microservices, AWS, Azure, Docker, CI/CD, Git, Agile, Web Application Development. 5-8 Yrs Node.js, React.js, Redux, MongoDB, Expresjs"
-    },
-    {
-      "id": "nk-nk-061126918976",
-      "source": "naukri",
-      "company": "Soul Ai",
-      "title": "C++ Application Developer",
-      "location": "India",
-      "url": "https://www.naukri.com/job-listings-c-application-developer-soul-ai-delhi-ncr-2-to-4-years-061126918976",
-      "posted": "2026-11-06",
-      "description": "We are hiring a C++ Application Developer to build and maintain desktop or cross-platform apps. Key Responsibilities:Design and develop applications in modern C++. Optimize performance and memory usage. Work on cross-platform compatibility (Windows/Linux). Implement algorithms and data structures efficiently. Required Qualifications:2+ years of C++ experience (C++11/14/17 preferred). Solid grasp of OOP and STL. Familiar with Qt or other GUI toolkits (optional). 2-4 Yrs HTML, Multithreading, C#, SQL, Application development, C++, Linux, Microsoft"
-    },
-    {
       "id": "nk-nk-061126919161",
       "source": "naukri",
       "company": "Soul Ai",
@@ -2031,6 +1941,86 @@
       "url": "https://www.naukri.com/job-listings-python-web-developer-django-flask-soul-ai-new-delhi-2-to-4-years-061126919045",
       "posted": "2026-11-06",
       "description": "We are looking for a skilled Python Web Developer to work on applications built using Django and Flask. Key Responsibilities : Develop web applications using Django and/or Flask. Implement APIs, user authentication, and backend logic. Write reusable, testable code and deploy apps on the cloud. Collaborate with frontend and design teams. Required Qualifications : 2+ years of experience in Python web development. Proficiency with Django and/or Flask frameworks. Experience working with REST APIs and databases (SQL/NoSQL). 2-4 Yrs OOPS, Cs, Javascript, CSS, Web development, jQuery, Application, Django"
+    },
+    {
+      "id": "nk-nk-061126918598",
+      "source": "naukri",
+      "company": "Soul Ai",
+      "title": "Frontend Developer (React/Next.js)",
+      "location": "India",
+      "url": "https://www.naukri.com/job-listings-frontend-developer-react-next-js-soul-ai-delhi-ncr-2-to-4-years-061126918598",
+      "posted": "2026-11-06",
+      "description": "About Us: Soul AI is a purpose-driven AI company founded by IIT/IIM alumni. With operations in SF and Hyderabad, we build platforms that combine scale, performance, and social impact. Were hiring a Frontend Developer with expertise in React and Next. js to create fast, responsive user interfaces. Key Responsibilities:Build modern, performant web apps using React and Next. js. Implement SSR, dynamic routing, and component optimization. Collaborate with backend and design teams. Write clean, maintainable frontend code. Required Qualifications:2+ years in frontend development. Strong knowledge of React, Next. js, and modern JavaScript. Familiarity with CSS frameworks and frontend tooling. 2-4 Yrs Typescript, UI, Sass, Redux, Nextjs, Frontend Development, Searching, Development"
+    },
+    {
+      "id": "nk-nk-061126918549",
+      "source": "naukri",
+      "company": "Soul Ai",
+      "title": "Frontend Developer (React/Next.js)",
+      "location": "New Delhi, India",
+      "url": "https://www.naukri.com/job-listings-frontend-developer-react-next-js-soul-ai-new-delhi-2-to-4-years-061126918549",
+      "posted": "2026-11-06",
+      "description": "We are hiring a Frontend Developer with expertise in React and Next. js to create fast, responsive user interfaces. Key Responsibilities: Build modern, performant web apps using React and Next js Implement SSR, dynamic routing, and component optimization Collaborate with backend and design teams Write clean, maintainable frontend code . Required Qualifications: 2+ years in frontend development Strong knowledge of React, Next js, and modern JavaScript Familiarity with CSS frameworks and frontend tooling 2-4 Yrs HTML, CMS Framework, UI development, Bootstrap, Typescript, Searching, Framework, Redux"
+    },
+    {
+      "id": "nk-nk-061126915907",
+      "source": "naukri",
+      "company": "Soul Ai",
+      "title": "Frontend Developer (React/Next.js)",
+      "location": "Noida, India",
+      "url": "https://www.naukri.com/job-listings-frontend-developer-react-next-js-soul-ai-noida-2-to-4-years-061126915907",
+      "posted": "2026-11-06",
+      "description": "We are hiring a Frontend Developer with expertise in React and Next. js to create fast, responsive user interfaces. Key Responsibilities: Build modern, performant web apps using React and Next js Implement SSR, dynamic routing, and component optimization Collaborate with backend and design teams Write clean, maintainable frontend code . Required Qualifications: 2+ years in frontend development Strong knowledge of React, Next js, and modern JavaScript Familiarity with CSS frameworks and frontend tooling 2-4 Yrs HTML, CMS Framework, UI development, Bootstrap, Typescript, Searching, Framework, Redux"
+    },
+    {
+      "id": "nk-nk-061126018335",
+      "source": "naukri",
+      "company": "Innovatiview",
+      "title": "Fullstack Developer (Golang + React.JS)",
+      "location": "Noida, India",
+      "url": "https://www.naukri.com/job-listings-fullstack-developer-golang-react-js-innovatiview-noida-3-to-8-years-061126018335",
+      "posted": "2026-11-06",
+      "description": "Role: Fullstack developer (Golang + React) Experience: 3+ Years Location: Noida Job Summary We are looking for a Fullstack Developer with strong expertise in Golang (Backend) and working experience of React (Frontend). The ideal candidate should have experience developing, scaling and optimising high-performance applications, preferably handling platforms with 10M+ users. Key Responsibilities Design, develop and maintain scalable backend services using Golang. Build REST APIs, business logic, integrations and data-processing workflows. Work on frontend development and integration using React. Optimise application performance, API response times, database queries and resource utilisation. Develop and maintain applications supporting 10M+ users. Identify and troubleshoot production issues, performance bottlenecks and concurrency-related challenges. Work with databases, caching mechanisms and distributed systems. Collaborate with Product, QA and DevOps teams for end-to-end delivery. Participate in code reviews, technical discussions and application architecture decisions. Required Skills & Qualifications 3+ years of professional software development experience. Strong hands-on experience in Golang (Go) and backend development. Working experience of React.js, JavaScript and TypeScript . Experience building RESTful APIs and scalable backend applications. Experience working on production applications serving 10M+ users. Strong understanding of data structures, algorithms, concurrency and multithreading. Experience with SQL/NoSQL databases, data modelling and query optimisation. Knowledge of distributed systems, caching and asynchronous processing. Proficiency in Git, debugging and automated testing. Good to Have Experience with Docker and Kubernetes. Exposure to AWS, Azure or other cloud platforms. Knowledge of Kafka, RabbitMQ or other message queues. Experience with monitoring, logging and application performance optimisation. Experience handling high-traffic applications and large-scale datasets. Key Skills: Golang, GoLang, Go Developer, Backend Development, React.js, JavaScript, TypeScript, REST API, Microservices, Distributed Systems, SQL, NoSQL, Docker, Kubernetes, Performance Optimisation. 3-8 Yrs Fullstack Development, Golang, React.js, Full Stack, Development"
+    },
+    {
+      "id": "nk-nk-061126917672",
+      "source": "naukri",
+      "company": "Soul Ai",
+      "title": "React.js Expert",
+      "location": "India",
+      "url": "https://www.naukri.com/job-listings-react-js-expert-soul-ai-delhi-2-to-4-years-061126917672",
+      "posted": "2026-11-06",
+      "description": "We\u2019re seeking an experienced React Developer to join us and build engaging, scalable front-end applications. Key Responsibilities : Build responsive web applications using React js. Collaborate with designers and backend developers for seamless integration. Optimize performance and maintain code quality. Implement reusable UI components. Required Qualifications: 2+ years of React js development experience. Strong knowledge of JavaScript (ES6+), HTML, and CSS. Experience with Redux, Hooks, and REST APIs. 2-4 Yrs Typescript, UI, Sass, Redux, Searching, Rest, Development, Web designing"
+    },
+    {
+      "id": "nk-nk-061126918989",
+      "source": "naukri",
+      "company": "Soul Ai",
+      "title": "Web Application Developer (JS Frameworks)",
+      "location": "New Delhi, India",
+      "url": "https://www.naukri.com/job-listings-web-application-developer-js-frameworks-soul-ai-new-delhi-2-to-4-years-061126918989",
+      "posted": "2026-11-06",
+      "description": "Key Responsibilities: Build interactive, scalable web applications Use frameworks like React, Angular, or Vue Collaborate on API integrations Write testable, modular frontend code Required Qualifications: 2+ years of experience with at least one JS framework Proficient in HTML, CSS, JavaScript, and REST APIs Strong focus on UI/UX quality and performance 2-4 Yrs HTML, Vue.js, C#, SQL, Bootstrap, Application development, UI/UX, UX"
+    },
+    {
+      "id": "nk-nk-061126918988",
+      "source": "naukri",
+      "company": "Soul Ai",
+      "title": "Web Application Developer (JS Frameworks)",
+      "location": "India",
+      "url": "https://www.naukri.com/job-listings-web-application-developer-js-frameworks-soul-ai-delhi-ncr-2-to-4-years-061126918988",
+      "posted": "2026-11-06",
+      "description": "We are looking for a Web Application Developer with experience in modern JS frameworks. Key Responsibilities:Build interactive, scalable web applications. Use frameworks like React, Angular, or Vue. Collaborate on API integrations. Write testable, modular frontend code. Required Qualifications:2+ years of experience with at least one JS framework. Proficient in HTML, CSS, JavaScript, and REST APIs. Strong focus on UI/UX quality and performance. 2-4 Yrs Angular, UI, MVC, SQL Server, Rest, Java Frameworks, Development, Application"
+    },
+    {
+      "id": "nk-nk-071026049680",
+      "source": "naukri",
+      "company": "Infosys",
+      "title": "Reactjs and Nodejs Developer",
+      "location": "Delhi / NCR, Pune, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-reactjs-and-nodejs-developer-infosys-pune-bengaluru-delhi-ncr-5-to-8-years-071026049680",
+      "posted": "2026-11-06",
+      "description": "Job Description React JS & Node JS Developer Job Title: React JS & Node JS Developer Experience: 5-8 Years Employment Type: Full-Time Job Summary We are looking for a talented React JS & Node JS Developer to build scalable, high-performance web applications. The ideal candidate should have strong experience in developing responsive front-end applications using React.js and robust back-end services using Node.js. The role involves collaborating with cross-functional teams to design, develop, test, and deploy end-to-end solutions. Key Responsibilities Develop and maintain dynamic, responsive web applications using React JS . Design and build scalable RESTful APIs and backend services using Node JS and Express.js. Develop reusable UI components and front-end libraries. Implement state management using Redux, Context API, or similar frameworks. Integrate frontend applications with backend APIs and third-party services. Optimize applications for maximum speed, scalability, and performance. Write clean, maintainable, and efficient code following coding standards and best practices. Participate in code reviews, debugging, and troubleshooting activities. Collaborate with UI/UX designers, product managers, and QA teams. Work within Agile/Scrum development methodologies. Ensure application security, data protection, and performance optimization. Required Skills Front-End Strong proficiency in React JS JavaScript (ES6+) HTML5, CSS3, Bootstrap, Material UI Redux, Context API React Hooks Responsive Web Design AJAX, Fetch API, Axios Back-End Strong experience in Node JS Express.js framework REST API Development Authentication & Authorization (JWT, OAuth) Microservices Architecture API Integration Database MongoDB PostgreSQL / MySQL Database Design and Query Optimization Tools & Technologies Git, GitHub, GitLab, Bitbucket Jenkins / CI-CD Pipelines Docker (preferred) AWS/Azure (preferred) Postman Agile/Scrum Required Qualifications Bachelor's degree in Computer Science, Information Technology, Engineering, or related field. 3+ years of experience in Full Stack Development. Strong understanding of software development lifecycle (SDLC). Experience with version control systems and deployment processes. Preferred Skills Experience with TypeScript. Experience in cloud platforms (AWS, Azure, GCP). Knowledge of GraphQL. Experience with Microservices Architecture. Understanding of DevOps practices and containerization. Familiarity with unit testing frameworks such as Jest, Mocha, or React Testing Library. Key Competencies Problem-solving skills Analytical thinking Strong communication skills Team collaboration Ability to work in a fast-paced environment Ownership and accountability Keywords React JS, React Developer, Node JS, Express JS, JavaScript, TypeScript, Redux, REST API, MongoDB, PostgreSQL, MySQL, Full Stack Developer, Microservices, AWS, Azure, Docker, CI/CD, Git, Agile, Web Application Development. 5-8 Yrs Node.js, React.js, Redux, MongoDB, Expresjs"
     },
     {
       "id": "nk-nk-061126501480",
@@ -2503,14 +2493,14 @@
       "description": "While technology is the heart of our business, a global and diverse culture is the heart of our success. We love our people and we take pride in catering them to a culture built on transparency, diversity, integrity, learning and growth. If working in an environment that encourages you to innovate and excel, not just in professional but personal life, interests you- you would enjoy your career with Quantiphi! Role : Senior Software Developer Experience : 5 - 7 Years Location : Mumbai/Bangalore KEY RESPONSIBILITIES Architecture Technical Leadership Own the backend and infrastructure architecture, making and documenting key technical decisions Define and maintain engineering standards for backend code, infrastructure, security, and deployment Advise leadership and delivery teams on technical approach, risk, effort, and cost for new projects and pitches Evaluate and select tools, services, and third-party partners, bringing in specialist support where appropriate Share knowledge with the wider engineering team, including supporting front-end developers on backend and infrastructure topics Backend Development Design, build, and maintain backend services and APIs using Python and PHP Write clean, well-tested, maintainable code, and establish review practices for backend work Optimise application performance, reliability, and security Design and integrate REST and GraphQL APIs, both consuming third-party services and exposing internal endpoints Work closely with front-end developers to support headless architecture, integrating with headless CMS platforms such as Contentful Design and own authentication and SSO integrations using OAuth 2, OpenID Connect, and SAML, working with identity platforms such as Microsoft Entra ID Lead database design and query optimisation DevOps Infrastructure Design, deploy, and maintain cloud infrastructure, primarily on GCP Build and manage containerised environments using Docker Support front-end developers with deployments on SaaS hosting platforms such as Vercel Build and maintain CI/CD pipelines to support fast, safe releases Implement monitoring, logging, and alerting, and lead incident response Own infrastructure-as-code practices and cloud cost/performance optimisation Own cloud security, access management, backups, and disaster recovery Maintain clear documentation and runbooks so systems are well understood and resilient beyond any one person ESSENTIAL SKILLS EXPERIENCE Proven senior-level experience as a backend developer, with strong commercial experience in Python and PHP Strong hands-on experience with at least one major cloud provider (e.g. GCP, AWS, Azure), ideally GCP Practical experience with Docker and containerised application deployment Strong understanding of CI/CD and modern DevOps practices Hands-on experience with Infrastructure-as-Code tools (e.g. Terraform, CloudFormation) Solid knowledge of security best practices for cloud environments Experience with relational and/or NoSQL databases Strong experience designing and integrating REST and GraphQL APIs Strong experience implementing SSO and authentication using standards such as OAuth 2, OpenID Connect, and SAML, and integrating with identity platforms such as Microsoft Entra ID Experience collaborating with front-end developers on headless solutions, including CMS platforms such as Contentful Comfortable working across the full lifecycle - from design through deployment to monitoring Confident working autonomously as the sole owner of a technical area, making sound decisions and prioritising effectively Excellent communication skills, with the ability to explain technical decisions to non-technical stakeholders and clients DESIRABLE SKILLS EXPERIENCE Experience supporting front-end deployments on SaaS hosting platforms such as Vercel Familiarity with Kubernetes or other container orchestration Experience working in an agency or client-facing environment Experience contributing to technical scoping, estimation, or pitches Prior experience mentoring engineers or leading technical initiatives If you like wild growth and working with happy, enthusiastic over-achievers, youll enjoy your career with us ! Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm the latest information directly on the company website before applying. 5-7 Yrs Cloud Infrastructure, Catering, CI Cd Pipeline, Architecture, Application, Cloud Security, PHP, Software development"
     },
     {
-      "id": "nk-nk-051126037171",
+      "id": "nk-nk-051126912570",
       "source": "naukri",
-      "company": "Luxoft",
-      "title": "Python Fullstack Developer",
-      "location": "India",
-      "url": "https://www.naukri.com/job-listings-python-fullstack-developer-luxoft-bengaluru-7-to-10-years-051126037171",
+      "company": "Natwest Digitalx",
+      "title": "Software Engineer",
+      "location": "Chennai, Gurugram, Bengaluru, India",
+      "url": "https://www.naukri.com/job-listings-software-engineer-natwest-digital-services-india-pvt-ltd-chennai-gurugram-bengaluru-1-to-6-years-051126912570",
       "posted": "2026-11-05",
-      "description": "Role & responsibilities 7+ years of experience, Strong proficiency in React.js and Next.js (hooks, SSR/ISR, API routes) Solid backend experience in Python with frameworks like FastAPI Experience with REST/GraphQL API design and integration Understanding of HTML/CSS, TypeScript, and modern build tools Working knowledge of Git Exposure to microservices architecture Preferred candidate profile 7-10 Yrs Python, Continuous Integration, Flask, Full Stack, Aiml, CI Cd Pipeline, Pipeline, Github"
+      "description": "Join us as a Software Engineer This is an opportunity for a driven Software Engineer to take on an exciting new career challenge Day-to-day, you'll be engineering and maintaining innovative, customer centric, high performance, secure and robust solutions Its a chance to hone your existing technical skills and advance your career while building a wide network of stakeholders We're offering this role at associate level Responsibilities In your new role, youll be working within a feature team to engineer software, scripts and tools, as well as liaising with other engineers, architects and business analysts across the platform. Youll also be: Producing complex and critical software rapidly and of high quality which adds value to the business Working in permanent teams who are responsible for the full life cycle, from initial development, through enhancement and maintenance to replacement or decommissioning Collaborating to optimise our software engineering capability Designing, producing, testing and implementing our working software solutions Working across the life cycle, from requirements analysis and design, through coding to testing, deployment and operations The skills you'll need To take on this role, youll need a background in software engineering, software design, and architecture, and an understanding of how your area of expertise supports our customers. Youll also need: At least five years of experience working with development and testing tools, bug tracking tools and wikis Experience in building intelligent digital onboarding journeys using React, Python, AWS and MongoDB, creating scalable, intuitive experiences that simplify complex customer and business onboarding. Exposure in developing AI-enabled and agentic capabilities, using LLMs, AI agents, APIs and automation patterns to help orchestrate workflows, interpret information, support decision-making and reduce manual effort across the onboarding journey. Experience in multiple programming languages or low code toolsets Experience of DevOps and Agile methodology and associated toolsets Experience of implementing programming best practice, especially around scalability, automation, virtualisation, optimisation, availability and performance Hours 45 1-6 Yrs Coding, Architecture, Program, MongoDB, Agile methodology, Bug tracking, Devops, AWS"
     },
     {
       "id": "nk-nk-051126926804",
@@ -2731,16 +2721,6 @@
       "url": "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-gurugram-8-to-13-years-051126930634",
       "posted": "2026-11-05",
       "description": "Project Role : Custom Software Engineer Project Role Description : Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high-performing solutions tailored to specific business needs. Must have skills : SAP Sales and Distribution (SD) Good to have skills: NA Minimum 7.5 year(s) of experience is required Educational Qualification: 15 years full time education Summary: As a Custom Software Engineer, a typical day involves creating tailored software solutions by designing, coding, and improving various components within systems or applications. The role requires working with contemporary development frameworks and following agile methodologies to ensure the delivery of scalable and efficient solutions that meet unique business requirements. Collaboration with different teams and continuous refinement of software elements to enhance overall system performance are integral parts of the daily routine. Roles & Responsibilities: - Expected to be an SME, collaborate and manage the team to perform. - Responsible for team decisions. - Engage with multiple teams and contribute on key decisions. - Provide solutions to problems for their immediate team and across multiple teams. - Lead efforts to identify and implement process improvements that enhance team productivity and software quality. - Mentor junior team members to support their professional growth and skill development. - Coordinate cross-functional communication to ensure alignment on project goals and deliverables. Professional & Technical Skills: Must To Have Skills: Proficiency in SAP Sales and Distribution (SD). - Experience in configuring and customizing SAP Sales and Distribution modules to meet business requirements. - Strong understanding of order-to-cash processes and integration points within SAP environments. - Ability to troubleshoot and resolve complex issues related to SAP Sales and Distribution functionalities. - Familiarity with SAP system enhancements, user exits, and BADI implementations to extend standard capabilities. Additional Information: - The candidate should have minimum 8 years of experience in SAP Sales and Distribution (SD). - This position is based at the client onsite location within India. - A 15 years full time education is required. Qualification 15 years full time education 8-13 Yrs Software Quality, Sales And Distribution, Requirements, Quality, Business Requirements, Custom, SAP, SAP Sales And Distribution"
-    },
-    {
-      "id": "nk-nk-051126912570",
-      "source": "naukri",
-      "company": "Natwest Digitalx",
-      "title": "Software Engineer",
-      "location": "Chennai, Gurugram, Bengaluru, India",
-      "url": "https://www.naukri.com/job-listings-software-engineer-natwest-digital-services-india-pvt-ltd-chennai-gurugram-bengaluru-1-to-6-years-051126912570",
-      "posted": "2026-11-05",
-      "description": "Join us as a Software Engineer This is an opportunity for a driven Software Engineer to take on an exciting new career challenge Day-to-day, you'll be engineering and maintaining innovative, customer centric, high performance, secure and robust solutions Its a chance to hone your existing technical skills and advance your career while building a wide network of stakeholders We're offering this role at associate level Responsibilities In your new role, youll be working within a feature team to engineer software, scripts and tools, as well as liaising with other engineers, architects and business analysts across the platform. Youll also be: Producing complex and critical software rapidly and of high quality which adds value to the business Working in permanent teams who are responsible for the full life cycle, from initial development, through enhancement and maintenance to replacement or decommissioning Collaborating to optimise our software engineering capability Designing, producing, testing and implementing our working software solutions Working across the life cycle, from requirements analysis and design, through coding to testing, deployment and operations The skills you'll need To take on this role, youll need a background in software engineering, software design, and architecture, and an understanding of how your area of expertise supports our customers. Youll also need: At least five years of experience working with development and testing tools, bug tracking tools and wikis Experience in building intelligent digital onboarding journeys using React, Python, AWS and MongoDB, creating scalable, intuitive experiences that simplify complex customer and business onboarding. Exposure in developing AI-enabled and agentic capabilities, using LLMs, AI agents, APIs and automation patterns to help orchestrate workflows, interpret information, support decision-making and reduce manual effort across the onboarding journey. Experience in multiple programming languages or low code toolsets Experience of DevOps and Agile methodology and associated toolsets Experience of implementing programming best practice, especially around scalability, automation, virtualisation, optimisation, availability and performance Hours 45 1-6 Yrs Coding, Architecture, Program, MongoDB, Agile methodology, Bug tracking, Devops, AWS"
     },
     {
       "id": "nk-nk-051126934106",
@@ -3123,6 +3103,16 @@
       "description": "Role & responsibilities Key Responsibilities Build our platform in Flutter across web and mobile, from first screen to release Turn complex real-estate workflows into screens that are fast and simple to use, on a desktop in a sales office or a phone at a site Write the backend your features need: Node.js and TypeScript services and the APIs behind them Model data in PostgreSQL that stays correct when many people work on the same records at once Keep every screen in step with live data, and keep the app usable on a weak connection: cached data, queued actions and a clear sign when something is still syncing Own quality end to end: performance, releases and tests Preferred candidate profile Must-Have Skills Flutter and Dart in production, including Flutter Web State management with Riverpod or BLoC Node.js and TypeScript: you have built APIs, not just called them PostgreSQL: schema design, transactions and indexing Real-time sync and offline-first patterns in Flutter: local cache, queued writes and resolving conflicts when they sync Profiling and fixing performance issues on web and mobile Good to Have Event-driven systems (message queues, event buses) Apps shipped to the Play Store or App Store B2B SaaS or real-estate products Tech Stack Flutter, Dart, Node.js, TypeScript, PostgreSQL 1-3 Yrs Typescript, Full Stack, Dart, Node.js, Flutter, Flutter Development, Stack, Development"
     },
     {
+      "id": "nk-nk-051126012737",
+      "source": "naukri",
+      "company": "Cerebra",
+      "title": "Python Developer - FastAPI/ Flask / Django",
+      "location": "New Delhi(Delhi University), Noida, Bhubaneswar, India",
+      "url": "https://www.naukri.com/job-listings-python-developer-fastapi-flask-django-cerebra-noida-bhubaneswar-new-delhi-5-to-7-years-051126012737",
+      "posted": "2026-11-05",
+      "description": "Immediate Joiners/Short Notice Apply Now: ramya.panneeru@cerebra-consulting.com Only Whatsapp: 8977020346 Python Developer FastAPI / Flask / Django Experience: 6 TO 8 Years Required Experience: 5+ Years Location: : Bangalore, Chennai, Pune, Bhubaneswar, Noida and New Delhi Job Description We are looking for an experienced Python Developer with strong expertise in Python 3.9+ and experience building scalable, production-grade APIs and backend services. The ideal candidate should have hands-on experience with Python web frameworks, database technologies, concurrency, testing and modern development practices. Key Responsibilities Design, develop and maintain scalable backend applications using Python. Build REST APIs and services using FastAPI, Flask or Django. Write clean, reusable, efficient and maintainable code. Implement asynchronous programming and concurrency using asyncio, multithreading and multiprocessing. Work with SQL and NoSQL databases. Perform debugging, troubleshooting and performance optimization. Develop unit and integration tests using pytest and follow test-driven development practices. Work with Git, CI/CD pipelines, Docker and dependency management tools. Collaborate with cross-functional teams to deliver reliable software solutions. Mandatory Skills 5+ years of professional software development experience. Strong hands-on experience with Python 3.9 or later. Experience with FastAPI, Flask or Django. Strong understanding of data structures, algorithms and concurrency. Experience with asyncio, multithreading or multiprocessing. Good knowledge of SQL and at least one NoSQL database. Hands-on experience with pytest and software testing. Familiarity with Git, CI/CD, Docker and package management. Strong debugging and problem-solving skills. 5-7 Yrs Multithreading, SQL database, DSA, SQL, Flask, Rest, Continuous Integration, Continuous Integration"
+    },
+    {
       "id": "nk-nk-051126025650",
       "source": "naukri",
       "company": "Innovationm",
@@ -3141,16 +3131,6 @@
       "url": "https://www.naukri.com/job-listings-immediate-openings-for-node-js-developer-delhi-trigyn-technologies-delhi-ncr-4-to-9-years-051126019810",
       "posted": "2026-11-05",
       "description": "-5 year's overall development experience (At least 3 years of hands-on experience in Node JS) Ability to work on diverse backend stack such as Node JS, Java, Express JS Ability to work on diverse frontend stack such as Angular 6/7/8/9, HTML5, CSS3 Ability to deliver quick POCs using cutting edge technologies. Preparing reports, manuals and other documentation on the status, operation and maintenance of software. Design, develop, and unit test applications in accordance with established standards Developing, refining, and tuning integrations between applications. Analyzing and resolving technical and application problems. Ability to debug application. Should have complete knowledge on developing RESTful Services. Should be able to also work in agile development methodology. 4-9 Yrs Node.js, Development, API, Javascript, Node"
-    },
-    {
-      "id": "nk-nk-051126012737",
-      "source": "naukri",
-      "company": "Cerebra",
-      "title": "Python Developer - FastAPI/ Flask / Django",
-      "location": "New Delhi(Delhi University), Noida, Bhubaneswar, India",
-      "url": "https://www.naukri.com/job-listings-python-developer-fastapi-flask-django-cerebra-noida-bhubaneswar-new-delhi-5-to-7-years-051126012737",
-      "posted": "2026-11-05",
-      "description": "Immediate Joiners/Short Notice Apply Now: ramya.panneeru@cerebra-consulting.com Only Whatsapp: 8977020346 Python Developer FastAPI / Flask / Django Experience: 6 TO 8 Years Required Experience: 5+ Years Location: : Bangalore, Chennai, Pune, Bhubaneswar, Noida and New Delhi Job Description We are looking for an experienced Python Developer with strong expertise in Python 3.9+ and experience building scalable, production-grade APIs and backend services. The ideal candidate should have hands-on experience with Python web frameworks, database technologies, concurrency, testing and modern development practices. Key Responsibilities Design, develop and maintain scalable backend applications using Python. Build REST APIs and services using FastAPI, Flask or Django. Write clean, reusable, efficient and maintainable code. Implement asynchronous programming and concurrency using asyncio, multithreading and multiprocessing. Work with SQL and NoSQL databases. Perform debugging, troubleshooting and performance optimization. Develop unit and integration tests using pytest and follow test-driven development practices. Work with Git, CI/CD pipelines, Docker and dependency management tools. Collaborate with cross-functional teams to deliver reliable software solutions. Mandatory Skills 5+ years of professional software development experience. Strong hands-on experience with Python 3.9 or later. Experience with FastAPI, Flask or Django. Strong understanding of data structures, algorithms and concurrency. Experience with asyncio, multithreading or multiprocessing. Good knowledge of SQL and at least one NoSQL database. Hands-on experience with pytest and software testing. Familiarity with Git, CI/CD, Docker and package management. Strong debugging and problem-solving skills. 5-7 Yrs Multithreading, SQL database, DSA, SQL, Flask, Rest, Continuous Integration, Continuous Integration"
     },
     {
       "id": "nk-nk-051126031657",
