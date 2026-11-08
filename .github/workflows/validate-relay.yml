@@ -1,0 +1,36 @@
+name: validate-relay-workflow
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate embedded collector and relay workflow
+        run: |
+          python - <<'PY'
+          import ast
+          import re
+          import textwrap
+          from pathlib import Path
+          workflow_path = Path(".github/workflows/naukri-relay.yml")
+          workflow = workflow_path.read_text(encoding="utf-8")
+          script = re.search(r"python - <<'PY'\n(.*?)\n          PY", workflow, re.S)
+          if not script:
+              raise SystemExit("Collector Python heredoc was not found")
+          ast.parse(textwrap.dedent(script.group(1)))
+          print("Embedded collector Python syntax: OK")
+          PY
+      - name: Run relay publisher tests
+        run: python -m unittest discover -s tests -v
